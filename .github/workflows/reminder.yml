@@ -1,0 +1,26 @@
+name: Daily upload reminder
+
+on:
+  schedule:
+    # cron is in UTC. 04:00 UTC = 09:30 IST (Asia/Kolkata).
+    # "1-5" = Monday through Friday only (weekdays).
+    - cron: "0 4 * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Send reminder
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python send_reminder.py
