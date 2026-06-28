@@ -1,5 +1,0 @@
-emails:
-  - subject: "[TEST] Resume auto-attach ✅"
-    to: "akashgupta14902@gmail.com"
-    body: "body.html"
-    attachments: []
