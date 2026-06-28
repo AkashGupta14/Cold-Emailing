@@ -1,0 +1,37 @@
+name: Send daily cold emails
+
+on:
+  schedule:
+    # cron is in UTC. 05:41 UTC = 11:11 IST (Asia/Kolkata).
+    # "1-5" = Monday through Friday only (weekdays).
+    - cron: "41 5 * * 1-5"
+  # Lets you trigger a manual run from the Actions tab (handy for testing).
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (build messages, do not actually send)"
+        type: boolean
+        default: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send emails
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TIMEZONE: "Asia/Kolkata"
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: python send_emails.py

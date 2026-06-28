@@ -1,0 +1,9 @@
+Hi there,
+
+This is a plain-text body example. Any body file that is NOT .html is sent as
+plain text exactly as written here.
+
+Keep it short and personal. End with a clear, low-friction ask.
+
+Best,
+Akash Gupta

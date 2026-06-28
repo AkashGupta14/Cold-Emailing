@@ -1,0 +1,35 @@
+# EXAMPLE campaign file.
+#
+# To send TODAY, copy this folder to a folder named with today's date:
+#   emails/_example/  ->  emails/2026-06-28/
+# The workflow only sends from emails/<today>/campaign.yml. This "_example"
+# folder is never matched by a date, so it will NEVER be sent. Use it as a
+# template you copy each morning.
+#
+# Each item under "emails:" is one email (you'll have ~5-10 of these per day).
+# Bcc recipients stay hidden from each other (~4 per email is fine).
+
+emails:
+  - subject: "Quick intro — Acme x Gap"
+    # "to" is optional. If you omit it, the email is sent To yourself and
+    # everyone real goes in Bcc (typical for cold outreach).
+    to: "you@gmail.com"
+    bcc:
+      - "alice@acme.com"
+      - "bob@acme.com"
+      - "carol@acme.com"
+      - "dan@acme.com"
+    from_name: "Akash Gupta"        # optional display name
+    reply_to: "you@gmail.com"       # optional
+    body: "body-acme.html"          # a file in THIS folder (.html or .txt)
+    attachments:
+      - "sample-attachment.txt"     # files in THIS folder; replace with your PDF/etc.
+
+  - subject: "Following up — Globex partnership"
+    bcc:
+      - "lead1@globex.com"
+      - "lead2@globex.com"
+      - "lead3@globex.com"
+      - "lead4@globex.com"
+    body: "body-globex.txt"
+    attachments: []

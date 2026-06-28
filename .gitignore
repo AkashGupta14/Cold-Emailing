@@ -1,0 +1,9 @@
+# Never commit credentials
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
