@@ -1,2 +1,0 @@
-Placeholder attachment. Replace this with your real file (e.g. one-pager.pdf)
-and update the "attachments:" list in campaign.yml to match the filename.
