@@ -1,38 +1,38 @@
 # DAILY TEMPLATE — copy this folder to emails/<today>/ each morning.
 #
 # YOUR PATTERN:
-#   - You have several "sets" of 3-4 Bcc emails.
-#   - Every set gets the SAME subject and SAME content (body.html).
-#   - Each set must be sent as its OWN separate email (sets are never merged).
+#   - You have several "sets" per day.
+#   - Each set is DIFFERENT: its own subject, its own content, its own 3-4 Bcc.
+#   - Each set is sent as its OWN separate email (sets are never merged).
 #
-# So: one "- " entry per set. Reuse the same subject + same body file for all of
-# them, and just change the "bcc:" list. The resume attaches to every send.
+# So: one "- " entry per set. Give each its own subject, its own body file
+# (create body1.html, body2.html, ... in this folder), and its own bcc list.
+# The resume (assets/AkashGupta_Resume.pdf) attaches to every send automatically.
 #
-# Add or remove entries to match how many sets you have that day (e.g. 5-10).
+# Add or remove entries to match how many sets you have that day.
 
 emails:
   # ---- Set 1 ----
-  - subject: "Your subject line here"
-    body: "body.html"
+  - subject: "Subject for set 1"
+    body: "body1.html"            # this set's content (a file in this folder)
     bcc:
-      - "person1@example.com"
-      - "person2@example.com"
-      - "person3@example.com"
-      - "person4@example.com"
+      - "a1@example.com"
+      - "a2@example.com"
+      - "a3@example.com"
 
-  # ---- Set 2 ---- (same subject + body, different recipients)
-  - subject: "Your subject line here"
-    body: "body.html"
+  # ---- Set 2 ----
+  - subject: "Subject for set 2"
+    body: "body2.html"            # different content
     bcc:
-      - "person5@example.com"
-      - "person6@example.com"
-      - "person7@example.com"
+      - "b1@example.com"
+      - "b2@example.com"
+      - "b3@example.com"
+      - "b4@example.com"
 
   # ---- Set 3 ----
-  - subject: "Your subject line here"
-    body: "body.html"
+  - subject: "Subject for set 3"
+    body: "body3.html"            # different content
     bcc:
-      - "person8@example.com"
-      - "person9@example.com"
-      - "person10@example.com"
-      - "person11@example.com"
+      - "c1@example.com"
+      - "c2@example.com"
+      - "c3@example.com"
