@@ -1,0 +1,8 @@
+# TEMPORARY self-test campaign. Sends only to yourself to verify the pipeline.
+# This folder will be deleted after the test.
+emails:
+  - subject: "[TEST] Cold Emailing pipeline works ✅"
+    to: "akashgupta14902@gmail.com"
+    body: "body.html"
+    attachments:
+      - "sample-attachment.txt"
