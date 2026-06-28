@@ -38,6 +38,12 @@ except ImportError:
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 465  # SSL
 
+# Folder containing this script == repo root.
+REPO_ROOT = Path(__file__).resolve().parent
+
+# Attachments added to EVERY email automatically, resolved relative to REPO_ROOT.
+DEFAULT_ATTACHMENTS = ["assets/AkashGupta_Resume.pdf"]
+
 
 def env_flag(name: str) -> bool:
     return os.environ.get(name, "").strip().lower() in {"1", "true", "yes", "on"}
@@ -71,21 +77,24 @@ def load_body(folder: Path, body_file: str) -> tuple[str, bool]:
     return content, path.suffix.lower() in {".html", ".htm"}
 
 
+def attach_one(msg: EmailMessage, path: Path) -> None:
+    if not path.is_file():
+        raise FileNotFoundError(f"attachment not found: {path}")
+    ctype, encoding = mimetypes.guess_type(str(path))
+    if ctype is None or encoding is not None:
+        ctype = "application/octet-stream"
+    maintype, subtype = ctype.split("/", 1)
+    msg.add_attachment(
+        path.read_bytes(),
+        maintype=maintype,
+        subtype=subtype,
+        filename=path.name,
+    )
+
+
 def attach_files(msg: EmailMessage, folder: Path, attachments: list[str]) -> None:
     for name in attachments:
-        path = folder / name
-        if not path.is_file():
-            raise FileNotFoundError(f"attachment not found: {path}")
-        ctype, encoding = mimetypes.guess_type(str(path))
-        if ctype is None or encoding is not None:
-            ctype = "application/octet-stream"
-        maintype, subtype = ctype.split("/", 1)
-        msg.add_attachment(
-            path.read_bytes(),
-            maintype=maintype,
-            subtype=subtype,
-            filename=path.name,
-        )
+        attach_one(msg, folder / name)
 
 
 def build_message(sender: str, item: dict, folder: Path) -> tuple[EmailMessage, list[str]]:
@@ -125,6 +134,9 @@ def build_message(sender: str, item: dict, folder: Path) -> tuple[EmailMessage, 
     else:
         msg.set_content(content)
 
+    # Resume (and any other defaults) on every email, then per-email extras.
+    for rel in DEFAULT_ATTACHMENTS:
+        attach_one(msg, REPO_ROOT / rel)
     attach_files(msg, folder, as_list(item.get("attachments")))
 
     envelope = to + cc + bcc

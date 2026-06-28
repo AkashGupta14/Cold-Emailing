@@ -64,11 +64,16 @@ If you skip a day, no folder = no send. Done.
 | `to` | no | defaults to yourself; real recipients go in `bcc` |
 | `cc` | no | visible CC list |
 | `body` | yes | filename in the dated folder; `.html` → HTML, else plain text |
-| `attachments` | no | list of filenames in the dated folder |
+| `attachments` | no | EXTRA files in the dated folder; the resume is always attached automatically |
 | `from_name` | no | display name on the From header |
 | `reply_to` | no | Reply-To address |
 
 \* you need `bcc` and/or `to`.
+
+**Always-attached files:** `assets/AkashGupta_Resume.pdf` is attached to every
+email automatically (configured via `DEFAULT_ATTACHMENTS` in `send_emails.py`).
+To swap the resume, replace that file; to change which files always attach,
+edit the `DEFAULT_ATTACHMENTS` list.
 
 ---
 

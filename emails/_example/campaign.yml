@@ -8,6 +8,9 @@
 #
 # Each item under "emails:" is one email (you'll have ~5-10 of these per day).
 # Bcc recipients stay hidden from each other (~4 per email is fine).
+#
+# assets/AkashGupta_Resume.pdf is attached to EVERY email automatically.
+# Use "attachments:" below only to add EXTRA files beyond the resume.
 
 emails:
   - subject: "Quick intro — Acme x Gap"
@@ -22,8 +25,7 @@ emails:
     from_name: "Akash Gupta"        # optional display name
     reply_to: "you@gmail.com"       # optional
     body: "body-acme.html"          # a file in THIS folder (.html or .txt)
-    attachments:
-      - "sample-attachment.txt"     # files in THIS folder; replace with your PDF/etc.
+    attachments: []                 # resume already auto-attached; add extras here
 
   - subject: "Following up — Globex partnership"
     bcc:
