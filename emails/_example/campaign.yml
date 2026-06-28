@@ -1,37 +1,38 @@
-# EXAMPLE campaign file.
+# DAILY TEMPLATE — copy this folder to emails/<today>/ each morning.
 #
-# To send TODAY, copy this folder to a folder named with today's date:
-#   emails/_example/  ->  emails/2026-06-28/
-# The workflow only sends from emails/<today>/campaign.yml. This "_example"
-# folder is never matched by a date, so it will NEVER be sent. Use it as a
-# template you copy each morning.
+# YOUR PATTERN:
+#   - You have several "sets" of 3-4 Bcc emails.
+#   - Every set gets the SAME subject and SAME content (body.html).
+#   - Each set must be sent as its OWN separate email (sets are never merged).
 #
-# Each item under "emails:" is one email (you'll have ~5-10 of these per day).
-# Bcc recipients stay hidden from each other (~4 per email is fine).
+# So: one "- " entry per set. Reuse the same subject + same body file for all of
+# them, and just change the "bcc:" list. The resume attaches to every send.
 #
-# assets/AkashGupta_Resume.pdf is attached to EVERY email automatically.
-# Use "attachments:" below only to add EXTRA files beyond the resume.
+# Add or remove entries to match how many sets you have that day (e.g. 5-10).
 
 emails:
-  - subject: "Quick intro — Acme x Gap"
-    # "to" is optional. If you omit it, the email is sent To yourself and
-    # everyone real goes in Bcc (typical for cold outreach).
-    to: "you@gmail.com"
+  # ---- Set 1 ----
+  - subject: "Your subject line here"
+    body: "body.html"
     bcc:
-      - "alice@acme.com"
-      - "bob@acme.com"
-      - "carol@acme.com"
-      - "dan@acme.com"
-    from_name: "Akash Gupta"        # optional display name
-    reply_to: "you@gmail.com"       # optional
-    body: "body-acme.html"          # a file in THIS folder (.html or .txt)
-    attachments: []                 # resume already auto-attached; add extras here
+      - "person1@example.com"
+      - "person2@example.com"
+      - "person3@example.com"
+      - "person4@example.com"
 
-  - subject: "Following up — Globex partnership"
+  # ---- Set 2 ---- (same subject + body, different recipients)
+  - subject: "Your subject line here"
+    body: "body.html"
     bcc:
-      - "lead1@globex.com"
-      - "lead2@globex.com"
-      - "lead3@globex.com"
-      - "lead4@globex.com"
-    body: "body-globex.txt"
-    attachments: []
+      - "person5@example.com"
+      - "person6@example.com"
+      - "person7@example.com"
+
+  # ---- Set 3 ----
+  - subject: "Your subject line here"
+    body: "body.html"
+    bcc:
+      - "person8@example.com"
+      - "person9@example.com"
+      - "person10@example.com"
+      - "person11@example.com"
