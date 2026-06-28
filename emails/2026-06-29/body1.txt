@@ -1,0 +1,11 @@
+Hi,
+
+I've applied for the Software Developer 3 role (335128) in the OCI Security & Compliance Platform Engineering team (Hyderabad/Bengaluru) and would love to have my profile considered.
+
+I'm a Full Stack Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Kafka, Redis, Prometheus, Grafana, ELK Stack, Docker, AWS, CI/CD. I recently cleared the Round 1 bar for another SWD3 role (323639) at Oracle before it was put on hold, so I'm already vetted at this level.
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring manager for 335128.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

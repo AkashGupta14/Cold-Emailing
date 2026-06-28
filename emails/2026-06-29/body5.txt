@@ -1,0 +1,11 @@
+Hi,
+
+I came across the Java Microservice Developer role (Job Code 176062) at Persistent Systems, Hyderabad, and it's a strong match for my profile.
+
+I'm a Full Stack Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, JPA/Hibernate, PostgreSQL, Docker, Kubernetes, CI/CD (Jenkins, SonarQube), REST APIs — directly maps to the JD requirements.
+
+I've attached my resume for your reference. Would love to have my profile considered or routed to the hiring manager.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

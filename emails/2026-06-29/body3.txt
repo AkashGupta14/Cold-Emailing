@@ -1,0 +1,11 @@
+Hi Naveen,
+
+I see you drive tech hiring at JioHotstar — reaching out because I've applied for the SDE-II Backend role (JR10360) in the Subs & Pay team, Bengaluru, and would love to have my profile considered.
+
+I'm a Full Stack Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Kafka, Redis, Spring Security, PostgreSQL, Docker, AWS, CI/CD — aligns closely with what JioStar's Ad Platform team is building.
+
+I've attached my resume for your reference.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

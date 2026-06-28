@@ -1,0 +1,15 @@
+Hi,
+
+I've applied for 3 Software Engineer roles at Microsoft and would love to have my profile considered:
+
+• 200040948 — SE, Hyderabad (Security, Crypto Services)
+• 200040674 — SE
+• 200029028 — SE
+
+I'm a Full Stack Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices and React.js frontends on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Kafka, Redis, Spring Security (JWT/OAuth2), MySQL/PostgreSQL, Docker, AWS, CI/CD (Jenkins, SonarQube).
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the right hiring managers.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
