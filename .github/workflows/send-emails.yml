@@ -1,11 +1,8 @@
 name: Send daily cold emails
 
 on:
-  schedule:
-    # cron is in UTC. 05:41 UTC = 11:11 IST (Asia/Kolkata).
-    # "1-5" = Monday through Friday only (weekdays).
-    - cron: "41 5 * * 1-5"
-  # Lets you trigger a manual run from the Actions tab (handy for testing).
+  # Manual only — trigger from the Actions tab each day ("Run workflow").
+  # (The 11:11 IST schedule was removed because GitHub's scheduler dropped runs.)
   workflow_dispatch:
     inputs:
       dry_run:
