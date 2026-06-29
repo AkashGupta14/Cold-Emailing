@@ -38,3 +38,31 @@ emails:
   body: body3.txt
   bcc:
   - prachi@hybrowlabs.tech
+- subject: Application Status – Software Engineer I (210721822) + Open to Similar Roles | Akash Gupta
+  body: body4.txt
+  bcc:
+  - pooja.khandelwal@jpmchase.com
+  - amrita.tuljapurkar@jpmchase.com
+  - anil.vakati@jpmchase.com
+  - poonam.santdasani@jpmchase.com
+  - shiva.thota@jpmchase.com
+  - satyanarayana.dowluri@jpmchase.com
+  - rahmath.khan@jpmchase.com
+  - nisha.hebbar@jpmchase.com
+  - pooja.prasad@jpmchase.com
+  - jaideep.reddy@jpmchase.com
+  - thrinadh.nekkanti@jpmchase.com
+  - anuja.pai@jpmchase.com
+  - anupama.bajpai@jpmchase.com
+  - ruhi.bose@jpmchase.com
+  - manthan.rao@jpmchase.com
+  - sreelekha.ratish@jpmchase.com
+  - kruthika.nilkund@jpmchase.com
+  - akshata.t@jpmchase.com
+  - shivaranjani.sridhar@jpmchase.com
+  - anvesh.pogula@jpmchase.com
+- subject: Software Engineer 2 (200038064) – Azure PostgreSQL, Hyderabad | Akash Gupta
+  body: body5.txt
+  bcc:
+  - vignesh.s@microsoft.com
+  - sivakumar.samudrala@microsoft.com

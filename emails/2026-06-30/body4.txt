@@ -1,0 +1,11 @@
+Hi,
+
+I applied for the Software Engineer I role (210721822) at JPMorgan Chase, Mumbai, and my application has been Under Consideration since April. I wanted to check if there are any updates on next steps.
+
+I'm also open to being considered for any other suitable Software Engineer openings at JPMC across Hyderabad, Bangalore, or Mumbai. I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, React.js, Kafka, Redis, JWT/OAuth2, PostgreSQL, Docker, AWS, CI/CD, Prometheus/Grafana.
+
+I've attached my resume for your reference. Would appreciate any visibility on my application or routing to suitable openings.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
