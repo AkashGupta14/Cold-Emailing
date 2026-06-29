@@ -10,9 +10,10 @@ attached to every email automatically.
 
 - **Repo:** `AkashGupta14/Cold-Emailing` (private)
 - **Sender:** Gmail SMTP, account `akashgupta14902@gmail.com`
-- **Send time:** weekdays at **11:11 AM IST** (`41 5 * * 1-5` UTC)
+- **Sending:** **manual** — you trigger it yourself each day from the Actions tab
+  (GitHub's scheduler proved unreliable, so the automatic 11:11 cron was removed).
 - **Reminder:** weekdays at **9:30 AM IST** you get an email titled
-  "UPLOAD THE COLD EMAILING FILE FOR TODAY"
+  "UPLOAD THE COLD EMAILING FILE FOR TODAY" (best-effort; may be late/dropped).
 
 ---
 
@@ -26,7 +27,11 @@ is the date in **Asia/Kolkata** (e.g. `emails/2026-06-29/`).
 
 This is the safety mechanism: **no folder for today = no emails.** Stale or
 yesterday's content can never go out by accident. To send on a given day, you
-just create that day's folder before 11:11 AM IST.
+create that day's folder, then **manually run the workflow** (see §6).
+
+**Idempotency:** after a successful send the workflow writes `emails/<today>/.sent`
+and commits it back. Re-running that day is a safe no-op (it sees the marker and
+sends nothing). To intentionally re-send, delete the `.sent` file and push.
 
 Each entry in `campaign.yml` is **one separate email** ("set"): its own subject,
 its own body, its own BCC list. Sets are never merged. The resume
@@ -117,14 +122,9 @@ cd "Cold Emailing"
 ```
 
 ### Which date should the emails go to?
-Target the **next time the workflow actually runs** = the earliest **weekday at
-11:11 AM IST that is still in the future**:
-
-- Before 11:11 IST on a weekday → **today**
-- After 11:11 IST on a weekday → **next weekday**
-- Anytime on a weekend → **next Monday**
-
-Check current IST time with: `TZ=Asia/Kolkata date "+%Y-%m-%d %H:%M %A"`.
+Since sending is **manual**, put the content in the folder for the **day you
+intend to send** (usually today, in Asia/Kolkata), then trigger the workflow
+that day. Check current IST date with: `TZ=Asia/Kolkata date "+%Y-%m-%d %H:%M %A"`.
 
 ### Option A — from a queue file (recommended)
 
