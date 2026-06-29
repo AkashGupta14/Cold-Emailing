@@ -25,6 +25,7 @@ emails:
   - krishnaveni.gade@oracle.com
   - prasad.maruthi@oracle.com
   - maruthi.prasad@oracle.com
+  - krutika.doshi@oracle.com
 - subject: Software Engineer Applications (200040948 / 200040674 / 200029028) | Akash Gupta
   body: body2.txt
   bcc:
@@ -61,3 +62,42 @@ emails:
   - rahul_koshal@persistent.com
   - rahul_sharma@persistent.com
   - drishtee_belani@persistent.com
+- subject: Software Engineer (R18764) – Remote India | Akash Gupta
+  body: body6.txt
+  bcc:
+  - rakesh.mangala@zoom.us
+  - rakeshchandra.mangala@zoom.us
+  - poonam.jha@zoom.us
+  - jaismeen.kaur@zoom.us
+  - jaismeen.k@zoom.us
+  - tushant.rampal@zoom.us
+  - deepashree.raj@zoom.us
+  - hemanth.badda@zoom.us
+  - akash.rao@zoom.us
+  - kiran.vinod@zoom.us
+  - prabhleen.dhillon@zoom.us
+  - neha.muliyil@zoom.us
+- subject: SDE-II Full Stack (R-107053) – Bangalore | Akash Gupta
+  body: body7.txt
+  bcc:
+  - simran.arora@expediagroup.com
+  - rashi.sharma@expediagroup.com
+  - shivraj.s@expediagroup.com
+  - richa.mathur@expediagroup.com
+  - salmanulla.baig@expediagroup.com
+  - somyen.m@expediagroup.com
+  - anas.choudhary@expediagroup.com
+  - malvika.kakar@expediagroup.com
+  - kusum.gaur@expediagroup.com
+  - sheena.babbar@expediagroup.com
+  - sravan.vavilala@expediagroup.com
+  - mohit.sansanwal@expediagroup.com
+  - alvirah.naqash@expediagroup.com
+  - yashika.dudeja@expediagroup.com
+  - aakanksha.saxena@expediagroup.com
+  - abhiroop.guha@expediagroup.com
+  - richa.chauhan@expediagroup.com
+  - shivangi.suri@expediagroup.com
+  - ritika.singh@expediagroup.com
+  - gaurav.lal@expediagroup.com
+  - salil.rana@expediagroup.com
