@@ -42,7 +42,7 @@ SMTP_PORT = 465  # SSL
 REPO_ROOT = Path(__file__).resolve().parent
 
 # Attachments added to EVERY email automatically, resolved relative to REPO_ROOT.
-DEFAULT_ATTACHMENTS = ["assets/AkashGupta_Resume.pdf"]
+DEFAULT_ATTACHMENTS = ["assets/Akash_Gupta_Resume.pdf"]
 
 
 def env_flag(name: str) -> bool:

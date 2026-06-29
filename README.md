@@ -30,7 +30,7 @@ just create that day's folder before 11:11 AM IST.
 
 Each entry in `campaign.yml` is **one separate email** ("set"): its own subject,
 its own body, its own BCC list. Sets are never merged. The resume
-(`assets/AkashGupta_Resume.pdf`) is attached to every one automatically.
+(`assets/Akash_Gupta_Resume.pdf`) is attached to every one automatically.
 
 ---
 
@@ -43,7 +43,7 @@ Cold Emailing/
 ├── send_reminder.py                # 9:30 AM reminder email
 ├── requirements.txt                # PyYAML
 ├── assets/
-│   └── AkashGupta_Resume.pdf       # auto-attached to EVERY email
+│   └── Akash_Gupta_Resume.pdf       # auto-attached to EVERY email
 ├── tools/
 │   └── parse_queue.py              # turns a Cold_Emails_<date>.md into emails/<date>/
 ├── emails/
@@ -100,7 +100,7 @@ emails:
 
 \* each entry needs `bcc` and/or `to`.
 
-**Auto-attached resume:** `assets/AkashGupta_Resume.pdf` is added to every email,
+**Auto-attached resume:** `assets/Akash_Gupta_Resume.pdf` is added to every email,
 configured by the `DEFAULT_ATTACHMENTS` list at the top of `send_emails.py`. To
 swap the resume, replace that file. To always attach more files, add them to
 `DEFAULT_ATTACHMENTS`.
