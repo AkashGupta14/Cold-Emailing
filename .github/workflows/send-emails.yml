@@ -13,12 +13,27 @@ on:
         type: boolean
         default: false
 
+# Allow the job to commit the .sent marker back to the repo.
+permissions:
+  contents: write
+
+# Serialize runs: a scheduled run and a manual run can never execute at the
+# same time. The second waits for the first, then sees the .sent marker.
+concurrency:
+  group: send-daily-cold-emails
+  cancel-in-progress: false
+
 jobs:
   send:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          # Always take the latest tip of main (incl. a marker pushed by an
+          # earlier run) and keep full history so we can commit + push.
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,3 +50,18 @@ jobs:
           TIMEZONE: "Asia/Kolkata"
           DRY_RUN: ${{ github.event.inputs.dry_run }}
         run: python send_emails.py
+
+      - name: Persist sent marker
+        if: success()
+        run: |
+          if [ -n "$(git status --porcelain emails)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add emails
+            git commit -m "Mark cold emails as sent"
+            git pull --rebase origin main
+            git push
+            echo "Sent marker pushed."
+          else
+            echo "No new marker to persist (nothing sent, or already marked)."
+          fi

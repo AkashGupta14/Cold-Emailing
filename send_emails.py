@@ -158,6 +158,12 @@ def main() -> int:
         print("Nothing to send. Exiting cleanly so no stale emails go out.")
         return 0
 
+    # Idempotency guard: if today's batch was already sent, do nothing.
+    marker = folder / ".sent"
+    if marker.exists():
+        print(f"{date_str} already sent (marker present: {marker}). Skipping.")
+        return 0
+
     if not sender or not password:
         sys.exit("GMAIL_USER and GMAIL_APP_PASSWORD must be set (GitHub secrets).")
 
@@ -195,9 +201,15 @@ def main() -> int:
                 print(f"  FAILED #{idx}: '{subject}': {exc}")
 
     if failures:
-        print(f"{failures} email(s) failed.")
+        print(f"{failures} email(s) failed. NOT writing sent marker so a re-run can retry.")
         return 1
-    print("All emails sent successfully.")
+
+    # Mark this day as sent so any later run (scheduled or manual) is a no-op.
+    marker.write_text(
+        f"Sent {len(built)} email(s) at {datetime.now(ZoneInfo(tz_name)).isoformat()}\n",
+        encoding="utf-8",
+    )
+    print(f"All emails sent successfully. Wrote sent marker: {marker}")
     return 0
 
 
