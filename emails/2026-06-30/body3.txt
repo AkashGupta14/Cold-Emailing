@@ -4,7 +4,7 @@ Came across your post about the Java Microservices Developer opening (Remote, 2-
 
 I'm a Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes serving 500K+ daily API requests. Hands-on with Kafka event-driven systems, REST APIs, JUnit/Mockito, Jenkins CI/CD, Docker, and Agile (bi-weekly sprints). My notice period is 15-20 days (negotiable).
 
-I've attached my resume for your reference.
+I've attached my resume for your reference. Would love to be considered for this role, and also happy to be considered for any other Java backend openings you're hiring for.
 
 Thanks
 Akash Gupta

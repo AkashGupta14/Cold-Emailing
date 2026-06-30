@@ -4,7 +4,7 @@ I've applied for the Java Microservice Developer role (Job Code 176062) at Persi
 
 I'm a Full Stack Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, JPA/Hibernate, PostgreSQL, Docker, Kubernetes, CI/CD (Jenkins, SonarQube), REST APIs — directly maps to the JD requirements.
 
-I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring manager for this role.
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring manager for this role. I'm also open to any other suitable Software Engineer openings at Persistent where my profile would be a good fit.
 
 Thanks
 Akash Gupta

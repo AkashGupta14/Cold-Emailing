@@ -4,7 +4,7 @@ I've applied for the Software Engineer 2 role (200038064) in the Azure PostgreSQ
 
 I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Strong in Java, cloud infrastructure (Azure/AWS), CI/CD, production observability (Prometheus, Grafana, ELK), and secure coding — aligns with the role's focus on cloud service reliability, scalability, and automation.
 
-I've attached my resume for your reference.
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring manager for this role. I'm also open to any other suitable Software Engineer openings at Microsoft where my profile would be a good fit.
 
 Thanks
 Akash Gupta
