@@ -1,0 +1,11 @@
+Hi Uzma,
+
+I saw your post about the Java Backend hiring drive at Walmart, Chennai — the IN3 Software Engineer role (2.5-5.5 yrs) is a strong match for my profile.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, Hibernate, REST APIs, Docker, Kubernetes, CI/CD, AWS — directly aligns with the JD requirements. My notice period is 15-20 days (negotiable).
+
+I've attached my resume for your reference. Would love to be considered for the IN3 role, and also happy to be considered for any other suitable Java backend openings at Walmart.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

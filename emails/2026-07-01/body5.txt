@@ -1,0 +1,13 @@
+Hi,
+
+I see MobiKwik is actively hiring backend engineers — great fintech product team. I noticed the current backend openings are SDE 3+ level.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, Docker, AWS, CI/CD.
+
+Would there be any upcoming SDE 1 or SDE 2 backend roles in the pipeline? I'd love to be considered if something opens up, or for any other suitable Java backend openings at MobiKwik.
+
+I've attached my resume for your reference.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

@@ -1,0 +1,11 @@
+Hi Praveen,
+
+I came across the Software Engineer II - Servicing Engineering role at Blackhawk Network, Bengaluru, and it's a strong match for my profile.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices and React.js frontends on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, React.js, Redux, TypeScript, REST APIs, Kafka, Redis, Docker, AWS, CI/CD. I also actively use AI tools (GitHub Copilot, Claude) in my daily development workflow.
+
+I've attached my resume for your reference. Would love to be considered for this role, and also happy to be considered for any other suitable Software Engineer openings at BHN.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

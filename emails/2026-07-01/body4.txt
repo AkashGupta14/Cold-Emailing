@@ -1,0 +1,15 @@
+Hi,
+
+I've applied for Software Engineer II roles at Mastercard, Pune, and would love to have my profile considered:
+
+1. SWE II – Backend Developer (R-274179)
+2. SWE II (R-276237)
+3. SWE II – Cyber & Security (R-281017)
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, JWT/OAuth2, PostgreSQL, Docker, AWS, CI/CD (Jenkins, SonarQube), Prometheus/Grafana — aligns well with Mastercard's engineering stack.
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring managers. I'm also open to any other suitable Software Engineer openings at Mastercard where my profile would be a good fit.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
