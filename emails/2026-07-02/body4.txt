@@ -1,0 +1,11 @@
+Hi Zahan,
+
+I've applied for the Developer role at CIBC India, Hyderabad (3-5 yrs, T500-26538) through the Talent500 platform and would love to have my profile considered.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Microservices, RESTful APIs, Kafka, Redis, Spring Security (JWT/OAuth2), Azure (AKS), Docker, CI/CD — directly maps to the JD requirements.
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring manager. I'm also open to any other suitable Developer/SWE openings at CIBC India.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
