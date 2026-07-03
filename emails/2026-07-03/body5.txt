@@ -1,0 +1,11 @@
+Hi,
+
+I'm a Software Engineer at Gap Inc., Hyderabad, reaching out to explore any Software Engineer openings at American Airlines, Hyderabad.
+
+I have ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, Docker, AWS, CI/CD, Prometheus/Grafana. My notice period is 15-20 days (negotiable).
+
+I've attached my resume for your reference. Would appreciate any visibility on open roles or a referral if something suitable is available. Also, could you share the HR/TA contact or email for India tech hiring? Would love to connect with the right person directly.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

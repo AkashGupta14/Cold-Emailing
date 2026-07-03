@@ -1,0 +1,11 @@
+Hi,
+
+I've applied for the Engineer, Software - Java role at TMUS Global Solutions, Hyderabad (3-6 yrs) through the ANSR/1Recruit platform and would love to have my profile considered.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, Kubernetes, Docker, AWS, CI/CD. I actively use AI coding tools (GitHub Copilot, Claude) in my daily workflow and have built an LLM-powered DevOps chatbot using OpenAI APIs and RAG architecture — aligns directly with the role's AI-first engineering focus.
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring manager. I'm also open to any other suitable Software Engineer openings at TMUS.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

@@ -1,0 +1,11 @@
+Hi,
+
+I'm reaching out regarding any open SDE-1 or SDE-2 Backend roles at Amazon, Hyderabad.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, Docker, AWS, CI/CD, Prometheus/Grafana. My notice period is 15-20 days (negotiable).
+
+I've attached my resume for your reference. Would love to be considered for any suitable SDE openings at Amazon.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
