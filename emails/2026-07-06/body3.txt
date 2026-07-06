@@ -1,0 +1,14 @@
+Hi Saurabh,
+
+I've applied for two SDE-II roles at Expedia Group, Bangalore, and would love to have my profile considered:
+
+1. SDE II – M&I Forecasting (R-107354)
+2. SDE II – Full Stack, Data Platform (R-107053)
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices and React.js frontends on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, React.js, Kafka, Redis, PostgreSQL, Docker, AWS, CI/CD, Prometheus/Grafana. I also actively use AI tools (GitHub Copilot, Claude) in my daily workflow.
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring managers. I'm also open to any other suitable SDE/Full Stack openings at Expedia.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

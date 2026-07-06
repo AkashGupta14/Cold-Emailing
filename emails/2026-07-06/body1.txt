@@ -1,0 +1,13 @@
+Hi Rakesh,
+
+I noticed we're both VIT alumni — great to connect! I've applied for the Software Engineer II role (1634) at GHX India, Hyderabad, and would love to have my profile considered.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, MongoDB, MySQL, ELK Stack, Docker, AWS, CI/CD.
+
+Would you be able to refer me internally or share the HR/TA contact for engineering hiring? Would really appreciate any help from a fellow VITian.
+
+I've attached my resume for your reference.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

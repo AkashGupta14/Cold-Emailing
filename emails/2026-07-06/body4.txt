@@ -1,0 +1,11 @@
+Hi Priyanka,
+
+I'm reaching out to explore any Software Engineer or Analyst level openings at Barclays for Java/Spring Boot backend or full stack roles (2-3 yrs experience).
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices and React.js frontends on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, React.js, Spring Security, REST APIs, Kafka, Redis, Docker, CI/CD.
+
+I've attached my resume for your reference. Would love to be considered if something suitable opens up, or for any other Java backend openings at Barclays.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

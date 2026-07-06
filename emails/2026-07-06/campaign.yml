@@ -1,0 +1,27 @@
+# Generated from Cold_Emails_2026-07-06.md
+emails:
+- subject: Software Engineer II (1634) – Hyderabad | Fellow VITian | Akash Gupta
+  body: body1.txt
+  bcc:
+  - rreddy@ghx.com
+- subject: Java Developer OCI – IC3, Bengaluru | Akash Gupta | R1 Cleared on 323639
+  body: body2.txt
+  bcc:
+  - shreya.gupta@oracle.com
+- subject: SDE II (R-107354) – M&I Forecasting, Bangalore + R-107053 | Akash Gupta
+  body: body3.txt
+  bcc:
+  - sachhabra@expediagroup.com
+- subject: Java Backend / Full Stack Openings – SWE / Analyst Level | Akash Gupta
+  body: body4.txt
+  bcc:
+  - priyanka.shastri@barclays.com
+- subject: Software Engineer – Java/Spring Boot Backend – Hyderabad | Akash Gupta
+  body: body5.txt
+  bcc:
+  - james.mario@optum.com
+  - darrel.gabell@optum.com
+  - subramanyam.akhila@optum.com
+  - suraj.sharma@optum.com
+  - charles.rapaka@optum.com
+  - nisha.garg@optum.com
