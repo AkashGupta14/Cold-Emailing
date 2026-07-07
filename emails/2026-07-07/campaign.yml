@@ -1,0 +1,25 @@
+# Generated from Cold_Emails_2026-07-07.md
+emails:
+- subject: Software Engineer – Java/Spring Boot Backend – Hyderabad | Akash Gupta
+  body: body1.txt
+  bcc:
+  - ramchander.gosika@wellsfargo.com
+  - kaushik.kommu@wellsfargo.com
+  - anupam.ghosh@wellsfargo.com
+  - ravi.kiran.reddy@wellsfargo.com
+  - deekshaa.srivastava@wellsfargo.com
+  - abir.biswas@wellsfargo.com
+  - uma.shankari@wellsfargo.com
+  - thoufeeq.misrikoti@wellsfargo.com
+  - shruti.mishra@wellsfargo.com
+  - harish.naik@wellsfargo.com
+- subject: Senior Backend Engineer – Bangalore | Akash Gupta | 45-60 Days Notice
+  body: body2.txt
+  bcc:
+  - madhvi.tripathi@curefit.com
+  - venkatesh.karnan@curefit.com
+  - saumitra.sinharoy@curefit.com
+  - smruti.javeri@curefit.com
+  - abinaya.kanakaraj@curefit.com
+  - krishna.yadav@curefit.com
+  - sachit.krishna@curefit.com
