@@ -1,0 +1,11 @@
+Hi Nisha,
+
+I reached out earlier about the Software Engineer I role (26007841) on the Customer 360 team at American Express, and wanted to follow up now that you're back.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, JWT/OAuth2, Docker, AWS, CI/CD, Prometheus/Grafana. Notice period: 45-60 days (negotiable).
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring manager. I'm also open to any other suitable Software Engineer openings at Amex.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
