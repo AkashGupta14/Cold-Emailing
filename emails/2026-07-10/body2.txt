@@ -1,0 +1,14 @@
+Hi,
+
+I've applied for two Software Engineer I roles at American Express and would love to have my profile considered:
+
+1. SWE I – Enterprise Technology (26010509), Gurugram
+2. SWE I – Full Stack (26010165), Chennai/Bengaluru
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices and React.js frontends on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, React.js, Kafka, Redis, REST APIs, JWT/OAuth2, Docker, AWS, CI/CD, Prometheus/Grafana. Notice period: 45-60 days (negotiable).
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring managers. I'm also open to any other suitable Software Engineer openings at Amex.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
