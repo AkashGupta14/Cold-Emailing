@@ -1,10 +1,6 @@
 name: Daily upload reminder
 
 on:
-  schedule:
-    # cron is in UTC. 04:00 UTC = 09:30 IST (Asia/Kolkata).
-    # "1-5" = Monday through Friday only (weekdays).
-    - cron: "0 4 * * 1-5"
   workflow_dispatch:
 
 jobs:
