@@ -1,0 +1,11 @@
+Hi,
+
+I've registered for the Backend Engineer Virtual Hiring Drive (Jul 18) at Snapmint for the SDE I role and would love to have my profile shortlisted.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS, CI/CD, Prometheus/Grafana. I have hands-on experience building scalable backend systems for retail/payment workflows. Notice period: 45-60 days (negotiable).
+
+I've attached my resume for your reference. Looking forward to the drive!
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
