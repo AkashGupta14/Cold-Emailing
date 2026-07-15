@@ -1,0 +1,11 @@
+Hi,
+
+I've applied for the Software Engineer - Hypervisor role at Rubrik, Bengaluru, and would love to have my profile considered.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS, CI/CD, Prometheus/Grafana. I have strong distributed systems experience and am passionate about building reliable, scalable platforms. Notice period: 45-60 days (negotiable).
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring manager.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
