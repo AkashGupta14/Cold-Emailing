@@ -1,0 +1,11 @@
+Hi,
+
+I've applied for the Software Development Engineer role at Airtel Payments Bank, Gurugram, and would love to have my profile considered.
+
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS, CI/CD, Prometheus/Grafana. I actively use AI tools (GitHub Copilot, Claude) in my daily workflow. Notice period: 45-60 days (negotiable).
+
+I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring manager. I'm also open to any other suitable Software Engineer openings at Airtel.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

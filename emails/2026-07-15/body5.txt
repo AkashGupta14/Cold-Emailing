@@ -1,0 +1,13 @@
+Hi Naveen,
+
+Thank you for the update on the earlier SDE-II role — I appreciate you keeping my profile under consideration.
+
+I noticed a new SDE-II opening on the Content Commerce team (JR11982), Bengaluru, and have applied for it on the portal. The role is an excellent match for my profile — Java microservices, Kafka, Redis, AWS, and building scalable systems at production scale.
+
+Quick recap: ~2 years at Gap Inc. building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS, CI/CD. Notice period: 45-60 days (negotiable).
+
+Would really appreciate if you could route my profile to the Content Commerce hiring manager as well. I've attached my resume for reference.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
