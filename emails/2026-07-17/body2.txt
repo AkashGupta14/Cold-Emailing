@@ -1,0 +1,11 @@
+Hi Ray,
+
+Welcome back! I'd sent an email last week about the Software Engineer role on the Service Monetization team at Crunchyroll, Hyderabad. I've applied on the careers portal as well.
+
+Quick recap: ~2 years at Gap Inc. building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS, CI/CD. Notice period: 45-60 days (negotiable).
+
+Would appreciate any visibility on the role or routing to the hiring manager. Happy to share any additional details.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

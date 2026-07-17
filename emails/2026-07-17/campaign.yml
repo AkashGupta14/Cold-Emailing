@@ -1,0 +1,33 @@
+# Generated from Cold_Emails_2026-07-17.md
+emails:
+- subject: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta
+  body: body1.txt
+  bcc:
+  - sanjay.e@toasttab.com
+  - prasanna.rajendran@toasttab.com
+  - shubha.prahalad@toasttab.com
+  - gagandeep.sangar@toasttab.com
+  - bhagyalakshmi.r@toasttab.com
+  - pranesh.p@toasttab.com
+  - ruksana.p@toasttab.com
+  - harshini.kannan@toasttab.com
+  - vikas.sawant@toasttab.com
+  - utpal.kirodian@toasttab.com
+  - priyalakshmi.r@toasttab.com
+  - lavanya.adyanthaya@toasttab.com
+- subject: 'Re: Software Engineer – Service Monetization – Hyderabad | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - rschneider@crunchyroll.com
+- subject: Associate Software Engineer (215679) – Hyderabad | Akash Gupta
+  body: body3.txt
+  bcc:
+  - neha.karingala@ea.com
+  - mahesh.y@ea.com
+  - deepa.pasula@ea.com
+  - mahitha.reddy@ea.com
+  - avinash.chourey@ea.com
+  - tirumalesh.m@ea.com
+  - bhuvitha.kanupuru@ea.com
+  - reethu.dounjeghar@ea.com
+  - rachit.singh@ea.com
