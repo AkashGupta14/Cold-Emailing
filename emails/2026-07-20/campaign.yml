@@ -46,6 +46,11 @@ emails:
   - darrel.gabell@optum.com
   - suraj.sharma@optum.com
   - nisha.garg@optum.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - vaishali.raj@barclays.com
+  - priyanka.shastri@barclays.com
 - subject: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta
   body: body5.txt
   bcc:
