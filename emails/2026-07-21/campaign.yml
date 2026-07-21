@@ -1,0 +1,129 @@
+emails:
+- subject: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta
+  body: body1.txt
+  bcc:
+  - savita.kumari@airbnb.com
+  - amulya.bhatt@airbnb.com
+  - rudraksh.dubey@airbnb.com
+  - santosh.p@airbnb.com
+  - abhinav.sharma@airbnb.com
+  - priyanka.sabannavar@airbnb.com
+  - joshua.talreja@airbnb.com
+  - deepa.pandey@airbnb.com
+  - nupur.goyal@airbnb.com
+  - ayushi.kumar@airbnb.com
+  - swati.chhabra@airbnb.com
+  - atika.chopra@airbnb.com
+  - karishma@airbnb.com
+  - kajal.kaushal@airbnb.com
+  - abhishek.sethi@airbnb.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Bengaluru | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - anupam.ghosh@wellsfargo.com
+  - uma.shankari@wellsfargo.com
+  - shruti.mishra@wellsfargo.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Bengaluru | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - madhvi.tripathi@curefit.com
+  - smruti.javeri@curefit.com
+  - sachit.krishna@curefit.com
+- subject: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta
+  body: body4.txt
+  bcc:
+  - sandeept@nvidia.com
+  - shishupal.singh@nvidia.com
+  - abhilasha.sharma@nvidia.com
+  - prashant.srivatsa@nvidia.com
+  - purnima.rathore@nvidia.com
+  - sony.gupta@nvidia.com
+  - mukesh.ishwar@nvidia.com
+  - saud.h@nvidia.com
+  - pragati.m@nvidia.com
+  - kumari.sindhu@nvidia.com
+  - sanmati.bidikar@nvidia.com
+  - mala.devi@nvidia.com
+- subject: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta
+  body: body5.txt
+  bcc:
+  - sowmya.chintamani@stripe.com
+  - ishita.thakur@stripe.com
+  - sandeep.chakraborty@stripe.com
+  - vasudevan.ganapathi@stripe.com
+  - sudha.ramesh@stripe.com
+  - sonal.piparsania@stripe.com
+  - rajvi.bhatt@stripe.com
+  - rohit.panickar@stripe.com
+  - uma.kashwani@stripe.com
+  - sourabh.sanyal@stripe.com
+  - vishal.chowdri@stripe.com
+  - ravisankar.g@stripe.com
+  - zafar.a@stripe.com
+  - swati.tomar@stripe.com
+  - ridhima.chhabra@stripe.com
+- subject: Software Engineer – Java/Spring Boot Backend – Hyderabad/India | Akash
+    Gupta
+  body: body6.txt
+  bcc:
+  - rashmi.pati@salesforce.com
+  - swathi.k@salesforce.com
+  - maanvitha.adla@salesforce.com
+  - jaideep.avasarala@salesforce.com
+  - bhuwneshari@salesforce.com
+  - suresh.avl@salesforce.com
+  - karunya.kv@salesforce.com
+  - anjali.kumari@salesforce.com
+  - jithender.reddy@salesforce.com
+  - divya.reddy@salesforce.com
+  - ragini.madeshia@salesforce.com
+  - megha.goyal@salesforce.com
+  - saiteja.miryala@salesforce.com
+  - sasi.rekha@salesforce.com
+  - mohan.narava@salesforce.com
+  - veda.kamat@salesforce.com
+  - abhishek.p@salesforce.com
+  - saketh.devarapalli@salesforce.com
+  - megha.subramanian@salesforce.com
+  - mohsin.zaz@salesforce.com
+- subject: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta
+  body: body7.txt
+  bcc:
+  - john.thomas@adobe.com
+  - vivek.tiwari@adobe.com
+  - tuhina.jain@adobe.com
+  - kalyani.tripathi@adobe.com
+  - charu.dobhal@adobe.com
+  - kanika.saini@adobe.com
+  - veda.kamat@adobe.com
+  - purnima.r@adobe.com
+  - shikha.devrani@adobe.com
+  - mahima.srivastava@adobe.com
+  - sakshi.joshi@adobe.com
+  - sanchitha.hb@adobe.com
+  - shrashti.gupta@adobe.com
+  - megha.subramanian@adobe.com
+  - naina.chaudhary@adobe.com
+- subject: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta
+  body: body8.txt
+  bcc:
+  - subashini.swaminathan@paypal.com
+  - vinay.kumar@paypal.com
+  - savita.sarangi@paypal.com
+  - jagriti.hemji@paypal.com
+  - ranjitha.d@paypal.com
+  - a.arun@paypal.com
+  - bharti.bathwal@paypal.com
+  - vineeta.inukurti@paypal.com
+  - deepika.goel@paypal.com
+  - bharti.chandel@paypal.com
+  - ravali.koneru@paypal.com
+  - shiva.gupta@paypal.com
+  - akrati.chaturvedi@paypal.com
+  - shilpa.singh@paypal.com
+  - sibi.vc@paypal.com
+  - namrata.sharma@paypal.com
+  - shagun.choudhary@paypal.com
+  - smriti.pandey@paypal.com
+  - sagar.kommula@paypal.com
+  - anurag.mishra@paypal.com
