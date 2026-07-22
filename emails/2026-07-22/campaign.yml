@@ -18,13 +18,36 @@ emails:
   - amy.walsh@netflix.com
   - gabbi.noa@netflix.com
   - sandhya.shivaram@netflix.com
-- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Gurugram | Akash Gupta'
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
   body: body2.txt
+  bcc:
+  - ramya.govindraj@databricks.com
+  - reuben.r@databricks.com
+  - sonali.sachan@databricks.com
+  - shikha.solankey@databricks.com
+  - debarshi.ghosh@databricks.com
+  - ashwini.ullagaddi@databricks.com
+  - shivani.tyagi@databricks.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Gurugram | Akash Gupta'
+  body: body3.txt
   bcc:
   - kamal.k.tiwari2@aexp.com
   - aditi.wadhwa@aexp.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Hyderabad | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - amarnadh.g@wnco.com
+  - g.amarnadh@wnco.com
+  - amarnadhg@wnco.com
+  - suresh.akula@wnco.com
+  - akula.suresh@wnco.com
+  - sureshakula@wnco.com
+  - aakash.sonti@wnco.com
+  - sonti.aakash@wnco.com
+  - aakashsonti@wnco.com
+  - SWAPeopleIndia@wnco.com
 - subject: Software Engineer – Java/Spring Boot Backend – Hyderabad/India | Akash Gupta
-  body: body3.txt
+  body: body5.txt
   bcc:
   - shilpa.manda@oracle.com
   - ajith.rachapudi@oracle.com
@@ -42,7 +65,7 @@ emails:
   - nancy.dewan@oracle.com
   - anupreet.kaur@oracle.com
 - subject: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta
-  body: body4.txt
+  body: body6.txt
   bcc:
   - pallabi.gochhi@cisco.com
   - nishanthi.ravikumar@cisco.com
@@ -60,7 +83,7 @@ emails:
   - seema.awate@cisco.com
   - shilpa.manda@cisco.com
 - subject: Software Engineer – Java/Spring Boot Backend – Hyderabad/India | Akash Gupta
-  body: body5.txt
+  body: body7.txt
   bcc:
   - ram.neelam@servicenow.com
   - sunil.akula@servicenow.com
@@ -78,7 +101,7 @@ emails:
   - samir.roychowdhury@servicenow.com
   - lokesh.anantha@servicenow.com
 - subject: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta
-  body: body6.txt
+  body: body8.txt
   bcc:
   - priyanka.singh@sap.com
   - pranjali.ganvir@sap.com
@@ -96,7 +119,7 @@ emails:
   - neelima.kukreja@sap.com
   - anshita.k@sap.com
 - subject: Software Engineer – Java/Spring Boot Backend – Hyderabad/India | Akash Gupta
-  body: body7.txt
+  body: body9.txt
   bcc:
   - banu.shankar@qualcomm.com
   - snigdha.priyadarsini@qualcomm.com
@@ -114,7 +137,7 @@ emails:
   - monami.m@qualcomm.com
   - priya.kumari@qualcomm.com
 - subject: Software Engineer – Java/Spring Boot Backend – Bengaluru | Akash Gupta
-  body: body8.txt
+  body: body10.txt
   bcc:
   - chandana.chythanya@flipkart.com
   - shwetha.awdesh@flipkart.com
@@ -132,7 +155,7 @@ emails:
   - ribjyoti.gogoi@flipkart.com
   - mohammed.yaser@flipkart.com
 - subject: Software Engineer – Java/Spring Boot – Hyderabad/Bengaluru/Gurgaon | Akash Gupta
-  body: body9.txt
+  body: body11.txt
   bcc:
   - karan.gurung@deshaw.com
   - aakash.johari@deshaw.com
@@ -150,7 +173,7 @@ emails:
   - shruti.joshi@deshaw.com
   - rajarshi.sengupta@deshaw.com
 - subject: Software Engineer – Credit Karma (21789) – Bangalore | Akash Gupta
-  body: body10.txt
+  body: body12.txt
   bcc:
   - shruti.sharma@intuit.com
   - punyashree.mallikarjuna@intuit.com

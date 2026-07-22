@@ -1,10 +1,10 @@
 Hi,
 
-I've applied for the Software Engineer role at Credit Karma (Job ID 21789), Bangalore, and would love to have my profile considered.
+I'm exploring opportunities at Flipkart and reaching out to check if there are any Software Engineer openings (Java/Spring Boot backend, 2-3 yrs experience) in India.
 
-I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS, CI/CD, Prometheus/Grafana. I'm excited about ramping up on Scala — my strong Java and functional programming fundamentals make it a natural transition. Notice period: 45-60 days (negotiable).
+I'm a Full Stack Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, React.js, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS, CI/CD, Prometheus/Grafana. Notice period: 45-60 days (negotiable).
 
-I've attached my resume for your reference. Would appreciate any visibility or routing to the hiring team.
+I've attached my resume for your reference. Would appreciate any visibility on open roles or routing to the right hiring manager.
 
 Thanks
 Akash Gupta
