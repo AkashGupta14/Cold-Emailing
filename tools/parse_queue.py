@@ -69,11 +69,8 @@ def main() -> int:
         elif section == "body":
             cur["body"].append(line)
         elif section == "bcc" and line.strip():
-            stripped = line.strip()
-            if stripped.startswith("---") or "@" not in stripped:
-                continue
-            for addr in re.split(r"[,\s]+", stripped):
-                if addr and "@" in addr:
+            for addr in re.split(r"[,\s]+", line.strip()):
+                if addr:
                     cur["bcc"].append(addr)
     if cur:
         sets.append(cur)
