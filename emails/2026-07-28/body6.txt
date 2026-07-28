@@ -1,0 +1,11 @@
+Hi Karthik,
+
+Came across your post about the Backend Java Developer role at Rainier Softech and would love to be considered.
+
+I'm a Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Spring MVC, REST APIs, Microservices, Hibernate/JPA, PostgreSQL, MySQL, Docker, AWS, CI/CD. Notice period: 45-60 days (negotiable).
+
+Would love to connect and discuss further.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
