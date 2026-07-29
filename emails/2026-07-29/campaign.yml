@@ -1,0 +1,87 @@
+# Generated from Cold_Emails_2026-07-29_clean.md
+emails:
+- subject: Software Engineer – Hypervisor (Bangalore) | Akash Gupta
+  body: body1.txt
+  bcc:
+  - shreya.agarwal@rubrik.com
+  - priyanka.bansal@rubrik.com
+  - neha.sharma@rubrik.com
+  - ankita.singh@rubrik.com
+  - divya.r@rubrik.com
+  - ritu.gupta@rubrik.com
+  - pooja.mehta@rubrik.com
+  - shruti.v@rubrik.com
+  - kavya.n@rubrik.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Bangalore | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - shreya.agarwal@rubrik.com
+  - priyanka.bansal@rubrik.com
+  - neha.sharma@rubrik.com
+  - ankita.singh@rubrik.com
+  - divya.r@rubrik.com
+  - ritu.gupta@rubrik.com
+  - pooja.mehta@rubrik.com
+  - shruti.v@rubrik.com
+  - kavya.n@rubrik.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - deepak.tyagi@mongodb.com
+  - srishti.handa@mongodb.com
+  - garima.sharma@mongodb.com
+  - tanu.saxena@mongodb.com
+  - pravarthi.n@mongodb.com
+  - srishti.garg@mongodb.com
+  - anjali.kushwaha@mongodb.com
+  - nikhit.alex@mongodb.com
+  - shubhangi.s@mongodb.com
+  - lakshay.taneja@mongodb.com
+  - suruchi.bhatia@mongodb.com
+  - bhawna.arya@mongodb.com
+  - shweta.tamba@mongodb.com
+  - vinayak.goswami@mongodb.com
+  - nitin.k@mongodb.com
+  - vishal.banwari@mongodb.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - prosenjit.konwar@blackrock.com
+  - himadri.khanna@blackrock.com
+  - neerja.nath@blackrock.com
+  - abhishek.kishore@blackrock.com
+  - kriti.thakur@blackrock.com
+  - kritika.srivastava@blackrock.com
+  - risha.s@blackrock.com
+  - sanchita.jain@blackrock.com
+  - jagriti.tyagi@blackrock.com
+  - dhruv.chadha@blackrock.com
+  - inderpreet.singh@blackrock.com
+  - megha.negi@blackrock.com
+  - vijeth.shetty@blackrock.com
+  - alisha.garg@blackrock.com
+  - ashima.mehan@blackrock.com
+  - sajan.johari@blackrock.com
+  - surendra.gupta@blackrock.com
+  - rachit.chaturvedi@blackrock.com
+  - deepa.yadav@blackrock.com
+  - kanika.g@blackrock.com
+  - eric.sequeira@blackrock.com
+  - manjri.bansal@blackrock.com
+  - rahul.rahul@blackrock.com
+  - chetna.mahobia@blackrock.com
+  - anandarup.sengupta@blackrock.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Mumbai | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - naveen.gundaraju@jiostar.com
+  - saumya.agarwal@jiostar.com
+  - ankita.kokas@jiostar.com
+  - jhanvi.rajesh@jiostar.com
+  - priya.sharma@jiostar.com
+  - sakshi.gupta@jiostar.com
+  - deeksha.singh@jiostar.com
+  - mohammed.imran@jiostar.com
+  - saili.rele@jiostar.com
+  - neelam.dhole@jiostar.com
+  - aafreen.shaikh@jiostar.com
