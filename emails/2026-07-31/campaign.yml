@@ -1,4 +1,4 @@
-# Generated from Cold_Emails_2026-07-31_clean.md
+# Generated from Cold_Emails_2026-07-31_all_clean.md
 emails:
 - subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
   body: body1.txt
@@ -66,3 +66,182 @@ emails:
   - vanessa.james@apple.com
   - shubham.rawat@apple.com
   - yeshika.shah@apple.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - lokesh.shekar@gs.com
+  - anu.bansal@gs.com
+  - shalini.banerjee@gs.com
+  - karthik.hoskote@gs.com
+  - somashekar.ch@gs.com
+  - angel.caroline@gs.com
+  - deepika.mukherjee@gs.com
+  - jyothi.hullur@gs.com
+  - shalini.mishra@gs.com
+  - keerthana.saravanan@gs.com
+  - robert.rahul@gs.com
+  - roushni.dutta@gs.com
+  - powlomi.mukherjee@gs.com
+  - cynthia.christy@gs.com
+  - divya.kokala@gs.com
+  - dharshana.mk@gs.com
+  - sreerag.nair@gs.com
+  - shabbir.khan@gs.com
+  - shreya.shetty@gs.com
+  - pooja.sampath@gs.com
+  - sandeep.subramanyam@gs.com
+  - harini.akella@gs.com
+  - prachi.talwar@gs.com
+  - reena.dsouza@gs.com
+  - ravichandra.macharla@gs.com
+  - aneesha.bhaskar@gs.com
+  - harshavardhan.bukka@gs.com
+  - priyanka.prabhu@gs.com
+  - sanchita.gupta@gs.com
+  - ayushi.dubey@gs.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body6.txt
+  bcc:
+  - swati.saxena@bcg.com
+  - ameen.mehkri@bcg.com
+  - nandika.thakur@bcg.com
+  - nandini@bcg.com
+  - neha.dua@bcg.com
+  - rajat.ahuja@bcg.com
+  - shubhga.mishra@bcg.com
+  - mansi.jain@bcg.com
+  - sushma.vedula@bcg.com
+  - shashwathi.p@bcg.com
+  - rahul.bhardwaj@bcg.com
+  - shubham.thakur@bcg.com
+  - medha.wadhwa@bcg.com
+  - munish.kumar@bcg.com
+  - radhika.s@bcg.com
+  - ishita.jha@bcg.com
+  - shweta.dubey@bcg.com
+  - kushagr.sharma@bcg.com
+  - sumiti.chitkara@bcg.com
+  - gourika.sally@bcg.com
+  - komal.kakkar@bcg.com
+  - harsh.saini@bcg.com
+  - shalini.banerjee@bcg.com
+  - shruti.shatakshi@bcg.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body7.txt
+  bcc:
+  - sunil.parambath@arcesium.com
+  - rohan.rozario@arcesium.com
+  - prashant.hiremath@arcesium.com
+  - kiran.ksheersagar@arcesium.com
+  - sohini.dasgupta@arcesium.com
+  - somya.neekhra@arcesium.com
+  - anwesha.daspatnaik@arcesium.com
+  - syeda.fatima@arcesium.com
+  - sanya.d@arcesium.com
+  - manak.sharma@arcesium.com
+  - mohit.dujari@arcesium.com
+  - akansha.m@arcesium.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body8.txt
+  bcc:
+  - adya.chaturvedi@sprinklr.com
+  - prabhleen.chopra@sprinklr.com
+  - surabhi.raina@sprinklr.com
+  - mansi.bhayana@sprinklr.com
+  - harleen.sodhi@sprinklr.com
+  - tarun.kumar@sprinklr.com
+  - rebecca.oommen@sprinklr.com
+  - komal.komal@sprinklr.com
+  - mudita.mehrotra@sprinklr.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Bangalore | Akash Gupta'
+  body: body9.txt
+  bcc:
+  - nagaraj.bg@blackbuck.com
+- subject: Software Engineer I – Backend Leaning Fullstack (Bangalore) | Akash Gupta
+  body: body10.txt
+  bcc:
+  - nithil.ba@rippling.com
+  - khalid.i@rippling.com
+  - glerin@rippling.com
+  - salini.p@rippling.com
+  - sivakanth@rippling.com
+  - aaron.g@rippling.com
+  - adarsh.kumar@rippling.com
+  - shivani.sinha@rippling.com
+  - vinoth.kumar@rippling.com
+  - sumitra.laishram@rippling.com
+  - garima.srivastava@rippling.com
+  - anjali.tiwari@rippling.com
+  - palak.pandey@rippling.com
+  - tanya.porwal@rippling.com
+  - sreelakshmi.tv@rippling.com
+- subject: Software Engineer – Hypervisor (Bangalore) | Akash Gupta
+  body: body11.txt
+  bcc:
+  - shreya.agarwal@rubrik.com
+  - priyanka.bansal@rubrik.com
+  - neha.sharma@rubrik.com
+  - ankita.singh@rubrik.com
+  - divya.r@rubrik.com
+  - ritu.gupta@rubrik.com
+  - pooja.mehta@rubrik.com
+  - shruti.v@rubrik.com
+  - kavya.n@rubrik.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Bangalore | Akash Gupta'
+  body: body12.txt
+  bcc:
+  - shreya.agarwal@rubrik.com
+  - priyanka.bansal@rubrik.com
+  - neha.sharma@rubrik.com
+  - ankita.singh@rubrik.com
+  - divya.r@rubrik.com
+  - ritu.gupta@rubrik.com
+  - pooja.mehta@rubrik.com
+  - shruti.v@rubrik.com
+  - kavya.n@rubrik.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body13.txt
+  bcc:
+  - deepak.tyagi@mongodb.com
+  - srishti.handa@mongodb.com
+  - garima.sharma@mongodb.com
+  - tanu.saxena@mongodb.com
+  - pravarthi.n@mongodb.com
+  - srishti.garg@mongodb.com
+  - nikhit.alex@mongodb.com
+  - lakshay.taneja@mongodb.com
+  - suruchi.bhatia@mongodb.com
+  - bhawna.arya@mongodb.com
+  - shweta.tamba@mongodb.com
+  - vinayak.goswami@mongodb.com
+  - vishal.banwari@mongodb.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body14.txt
+  bcc:
+  - dhruv.chadha@blackrock.com
+  - inderpreet.singh@blackrock.com
+  - megha.negi@blackrock.com
+  - vijeth.shetty@blackrock.com
+  - alisha.garg@blackrock.com
+  - ashima.mehan@blackrock.com
+  - sajan.johari@blackrock.com
+  - rachit.chaturvedi@blackrock.com
+  - deepa.yadav@blackrock.com
+  - eric.sequeira@blackrock.com
+  - manjri.bansal@blackrock.com
+  - chetna.mahobia@blackrock.com
+  - anandarup.sengupta@blackrock.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Mumbai | Akash Gupta'
+  body: body15.txt
+  bcc:
+  - naveen.gundaraju@jiostar.com
+  - saumya.agarwal@jiostar.com
+  - ankita.kokas@jiostar.com
+  - jhanvi.rajesh@jiostar.com
+  - priya.sharma@jiostar.com
+  - sakshi.gupta@jiostar.com
+  - deeksha.singh@jiostar.com
+  - mohammed.imran@jiostar.com
+  - saili.rele@jiostar.com
+  - neelam.dhole@jiostar.com
+  - aafreen.shaikh@jiostar.com

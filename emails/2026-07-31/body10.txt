@@ -1,0 +1,11 @@
+Hi,
+
+I've applied for the Software Engineer I – Backend Leaning Fullstack role at Rippling's Bangalore office and would love to have my profile considered.
+
+I'm a Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, React.js, Docker, AWS, CI/CD, Prometheus/Grafana. Strong distributed systems background with hands-on experience in scalable, high-availability service design. Notice period: 45-60 days (negotiable).
+
+Would appreciate any visibility or routing to the hiring team.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
