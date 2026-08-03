@@ -1,0 +1,38 @@
+# Generated from Cold_Emails_2026-08-03_clean.md
+emails:
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - namrata.kapoor@meta.com
+  - monish.m@meta.com
+  - keerthi.cottur@meta.com
+  - sirisha.palusa@meta.com
+  - shreya.shruti@meta.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - kanka.halder@uber.com
+  - varsha.tejaswi@uber.com
+  - veena.kommireddy@uber.com
+  - thejaswi.bollineni@uber.com
+  - mahesh.n@uber.com
+  - nishanth.seshadri@uber.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – Hyderabad | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - pujitap@amazon.com
+  - chowsri@amazon.com
+  - utkai@amazon.com
+  - vedicas@amazon.com
+  - kirtidah@amazon.com
+  - shvtt@amazon.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - sachhabra@expediagroup.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - darrel.gabell@optum.com
+  - suraj.sharma@optum.com
+  - nisha.garg@optum.com
