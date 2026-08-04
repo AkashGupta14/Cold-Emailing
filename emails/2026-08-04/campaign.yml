@@ -1,0 +1,32 @@
+# Generated from Cold_Emails_2026-08-04_clean.md
+emails:
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - john.thomas@adobe.com
+  - vivek.tiwari@adobe.com
+  - kalyani.tripathi@adobe.com
+  - charu.dobhal@adobe.com
+  - kanika.saini@adobe.com
+  - shikha.devrani@adobe.com
+  - mahima.srivastava@adobe.com
+  - sakshi.joshi@adobe.com
+  - shrashti.gupta@adobe.com
+  - naina.chaudhary@adobe.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - rashmi.pati@salesforce.com
+  - maanvitha.adla@salesforce.com
+  - megha.goyal@salesforce.com
+  - saiteja.miryala@salesforce.com
+  - veda.kamat@salesforce.com
+  - megha.subramanian@salesforce.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - amulya.bhatt@airbnb.com
+  - nupur.goyal@airbnb.com
+  - ayushi.kumar@airbnb.com
+  - swati.chhabra@airbnb.com
+  - abhishek.sethi@airbnb.com
