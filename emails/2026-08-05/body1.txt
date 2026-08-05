@@ -1,0 +1,11 @@
+Hi,
+
+I came across the Full Stack Developer (UI/UX) role in BlackRock's Portfolio Management Group, Mumbai (Req R264722) and would love to be considered.
+
+I'm a Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, React.js, REST APIs, Microservices, PostgreSQL, Redis, Docker, AWS, CI/CD, Prometheus/Grafana. Strong full stack experience across backend services and responsive frontend development. Notice period: 45-60 days (negotiable). Resume attached.
+
+Would appreciate any visibility or routing to the hiring team.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

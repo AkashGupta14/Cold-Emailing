@@ -1,0 +1,11 @@
+Hi,
+
+Just following up on my earlier email regarding Software Engineer openings at ServiceNow.
+
+I'm still actively looking and would love to be considered. Quick recap: ~2 years at Gap Inc. building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Java 17, Spring Boot, Kafka, Redis, REST APIs, AWS, CI/CD. Notice period: 45-60 days (negotiable).
+
+Happy to share any additional details.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

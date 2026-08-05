@@ -1,0 +1,11 @@
+Hi,
+
+I came across the Software Engineer II – Java, UI, Spark, Kafka role at JPMorgan Chase, Mumbai (210772449) and would love to be considered.
+
+I'm a Software Engineer at Gap Inc. with ~2 years building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, React.js, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS, CI/CD, JWT/OAuth2, Prometheus/Grafana. Strong full stack experience across backend services, event-driven systems, and responsive frontend development. Notice period: 45-60 days (negotiable). Resume attached.
+
+Would appreciate any visibility or routing to the hiring team.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
