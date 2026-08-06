@@ -1,0 +1,11 @@
+Hi Dominic,
+
+I've applied for the Backend Engineer role at Ravelin via your referral link and wanted to reach out directly.
+
+I'm a Software Engineer at Gap Inc. with ~2 years building 15+ customer-facing SaaS microservices on Azure Kubernetes Service (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS/Azure, CI/CD, Prometheus/Grafana. Strong distributed systems background with production incident management and cross-geo collaboration experience. Eager to learn Go and contribute to high-scale fraud detection systems. Notice period: 45-60 days (negotiable). Resume attached.
+
+Would love to discuss further if there's a fit.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

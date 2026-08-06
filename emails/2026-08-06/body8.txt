@@ -1,0 +1,11 @@
+Hi,
+
+I'm a Software Engineer at Gap Inc. actively exploring opportunities at Southwest Airlines' Hyderabad GCC and would love to be considered.
+
+~2 years building 15+ customer-facing SaaS microservices on Azure Kubernetes Service (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, React.js, Docker, AWS/Azure, CI/CD, Prometheus/Grafana. Strong distributed systems background with production DRI experience and cross-geo collaboration across US and India teams. Notice period: 45-60 days (negotiable). Resume attached.
+
+Would appreciate any visibility or routing to the relevant hiring team.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
