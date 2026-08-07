@@ -1,0 +1,11 @@
+Hi,
+
+I came across the Backend Engineer role at CoverForce and wanted to express my interest.
+
+I'm a Software Engineer at Gap Inc. with ~2 years of experience building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. My core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, React.js, Docker, AWS/Azure, CI/CD. Notice period: 45-60 days (negotiable). Resume attached.
+
+Would appreciate any routing or visibility for this role. Happy to share more details.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

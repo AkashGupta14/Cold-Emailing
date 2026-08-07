@@ -1,0 +1,19 @@
+# Generated from Cold_Emails_2026-08-07_clean.md
+emails:
+- subject: Backend Engineer – CoverForce | Akash Gupta
+  body: body1.txt
+  bcc:
+  - sourabh.sethi@coverforce.com
+  - nitesh.agarwal@coverforce.com
+  - kartikey.pandey@coverforce.com
+  - pooja.maurya@coverforce.com
+  - govind.shah@coverforce.com
+  - dhiraj.tanwer@coverforce.com
+  - vishal.prabhakar@coverforce.com
+  - prajjwal.nair@coverforce.com
+  - suman.saurav@coverforce.com
+  - adnan.masroor@coverforce.com
+- subject: Software Engineer – American Airlines, Hyderabad | Akash Gupta (VIT Alum)
+  body: body2.txt
+  to: saiprasanna@outlook.com
+  bcc: []

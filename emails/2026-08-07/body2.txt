@@ -1,0 +1,11 @@
+Hi Sai Prasanna,
+
+I'm Akash Gupta — fellow VIT CS alum (B.Tech 2024). I saw the Sr Associate Engineer – Java FullStack role at American Airlines in Hyderabad and would love your help getting visibility.
+
+I'm currently at Gap Inc. (~2 years) building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, React.js, PostgreSQL, Docker, AWS/Azure, CI/CD. Notice period: 45-60 days (negotiable). Resume attached.
+
+Would really appreciate a referral or any routing to the hiring team. Thanks for your time!
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
