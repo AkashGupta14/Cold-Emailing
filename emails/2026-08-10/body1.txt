@@ -1,0 +1,11 @@
+Hi,
+
+I recently applied for the Sr Associate Engineer – Java FullStack role at American Airlines in Hyderabad via Talent500 and wanted to follow up directly.
+
+I'm a Software Engineer at Gap Inc. with ~2 years of experience building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, React.js, PostgreSQL, Docker, AWS/Azure, CI/CD. Resume attached.
+
+Would appreciate any routing or visibility for this role. Happy to discuss further.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
