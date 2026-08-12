@@ -1,0 +1,176 @@
+# Generated from Cold_Emails_2026-08-12_clean.md
+emails:
+- subject: 'Re: Software Engineer / Backend Engineer – Java (Hyderabad) | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - arjung@apple.com
+  - asheesh.sharma@apple.com
+  - manoj.madakari@apple.com
+  - ashwin.dalke@apple.com
+  - divina.bajpai@apple.com
+  - renu.sevanthi@apple.com
+  - chavi.sengar@apple.com
+  - shiny.sharon@apple.com
+  - prerna.gera@apple.com
+  - shruthi.aravelli@apple.com
+  - anuja.pankaj@apple.com
+  - goldy.sachdev@apple.com
+  - prasun.saxena@apple.com
+  - arancha.kosta@apple.com
+  - vanessa.james@apple.com
+  - shubham.rawat@apple.com
+  - yeshika.shah@apple.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - indu.p@razorpay.com
+  - divya.babu@razorpay.com
+  - dipika.singh@razorpay.com
+  - ashwin.narayan@razorpay.com
+  - raj.paul@razorpay.com
+  - onyx.lakra@razorpay.com
+  - josephine.shirine@razorpay.com
+  - carol.l@razorpay.com
+  - nidhi.chawda@razorpay.com
+  - purnima.gupta@razorpay.com
+  - srinidhi.v@razorpay.com
+  - keerthi.p@razorpay.com
+  - sneha.m@razorpay.com
+  - rafiqa.arzuman@razorpay.com
+  - anagha.ramchandra@razorpay.com
+  - trisha.arya@razorpay.com
+  - ravi.k@razorpay.com
+  - dipika.biswas@razorpay.com
+  - vijeta.chhetri@razorpay.com
+  - abinya.a@razorpay.com
+  - tausif.raza@razorpay.com
+  - sumit.premi@razorpay.com
+  - vishali.pandita@razorpay.com
+  - shibina.shibu@razorpay.com
+  - abhishek.singh@razorpay.com
+  - shalin.menezes@razorpay.com
+  - muhammad.yaameen@razorpay.com
+- subject: 'Re: Software Engineer Opportunities – Walmart | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - smitha.prasanna@walmart.com
+  - priyanka.kar@walmart.com
+  - shalini.fonseka@walmart.com
+  - preethy.jose@walmart.com
+  - pranesh.george@walmart.com
+  - mohan.prasad@walmart.com
+  - lavanyaa.p@walmart.com
+  - lipy.b@walmart.com
+  - chidananda.y@walmart.com
+  - aswathy.mohanan@walmart.com
+  - anirudh.v@walmart.com
+  - arun.joseph@walmart.com
+  - kartheek.k@walmart.com
+  - ishank.gupta@walmart.com
+  - somreeta.deb@walmart.com
+  - falak.zarin@walmart.com
+  - dinesh.martin@walmart.com
+  - athira.j@walmart.com
+  - suhail.khan@walmart.com
+  - deepika.dhanraj@walmart.com
+  - santhosh.kumar@walmart.com
+  - aruna.veeraraghavan@walmart.com
+  - pavithra.shree@walmart.com
+- subject: 'Re: Software Engineer Opportunities – Amex GBT | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - anjali.singh@amexgbt.com
+  - prachi.singh@amexgbt.com
+  - monomita.sharma@amexgbt.com
+  - lovee.chopra@amexgbt.com
+  - shweta.jolly@amexgbt.com
+  - jagriti.raj@amexgbt.com
+  - vibha.ravichandran@amexgbt.com
+  - priyanka.gaur@amexgbt.com
+  - amreen.dhawan@amexgbt.com
+  - rini.saha@amexgbt.com
+  - indrakshi.k@amexgbt.com
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - farah.salleh@curlec.com
+  - sundharam.subramanian@curlec.com
+  - arun.srinivasan@curlec.com
+- subject: 'Re: Software Engineer Opportunities – Rainier | Akash Gupta'
+  body: body6.txt
+  bcc:
+  - karthik.karre@rainiersoft.com
+- subject: 'Re: Software Engineer Opportunities | Akash Gupta'
+  body: body7.txt
+  to: gargmohit2912@gmail.com
+  bcc: []
+- subject: 'Re: Software Engineer – Java/Spring Boot Backend – India | Akash Gupta'
+  body: body8.txt
+  bcc:
+  - shreya.agarwal@rubrik.com
+  - priyanka.bansal@rubrik.com
+  - neha.sharma@rubrik.com
+  - ankita.singh@rubrik.com
+  - divya.r@rubrik.com
+  - ritu.gupta@rubrik.com
+  - pooja.mehta@rubrik.com
+  - shruti.v@rubrik.com
+  - kavya.n@rubrik.com
+- subject: 'Re: Software Engineer Opportunities – MongoDB | Akash Gupta'
+  body: body9.txt
+  bcc:
+  - deepak.tyagi@mongodb.com
+  - srishti.handa@mongodb.com
+  - garima.sharma@mongodb.com
+  - tanu.saxena@mongodb.com
+  - pravarthi.n@mongodb.com
+  - srishti.garg@mongodb.com
+  - nikhit.alex@mongodb.com
+  - lakshay.taneja@mongodb.com
+  - suruchi.bhatia@mongodb.com
+  - bhawna.arya@mongodb.com
+  - shweta.tamba@mongodb.com
+  - vinayak.goswami@mongodb.com
+  - vishal.banwari@mongodb.com
+- subject: 'Re: Software Engineer Opportunities – BlackRock | Akash Gupta'
+  body: body10.txt
+  bcc:
+  - dhruv.chadha@blackrock.com
+  - inderpreet.singh@blackrock.com
+  - megha.negi@blackrock.com
+  - vijeth.shetty@blackrock.com
+  - alisha.garg@blackrock.com
+  - ashima.mehan@blackrock.com
+  - sajan.johari@blackrock.com
+  - rachit.chaturvedi@blackrock.com
+  - deepa.yadav@blackrock.com
+  - eric.sequeira@blackrock.com
+  - manjri.bansal@blackrock.com
+  - chetna.mahobia@blackrock.com
+  - anandarup.sengupta@blackrock.com
+- subject: 'Re: Software Engineer Opportunities – JioStar | Akash Gupta'
+  body: body11.txt
+  bcc:
+  - naveen.gundaraju@jiostar.com
+  - saumya.agarwal@jiostar.com
+  - ankita.kokas@jiostar.com
+  - jhanvi.rajesh@jiostar.com
+  - priya.sharma@jiostar.com
+  - sakshi.gupta@jiostar.com
+  - deeksha.singh@jiostar.com
+  - mohammed.imran@jiostar.com
+  - saili.rele@jiostar.com
+  - neelam.dhole@jiostar.com
+  - aafreen.shaikh@jiostar.com
+- subject: 'Re: Software Engineer – Hypervisor Role, Rubrik | Akash Gupta'
+  body: body12.txt
+  bcc:
+  - shreya.agarwal@rubrik.com
+  - priyanka.bansal@rubrik.com
+  - neha.sharma@rubrik.com
+  - ankita.singh@rubrik.com
+  - divya.r@rubrik.com
+  - ritu.gupta@rubrik.com
+  - pooja.mehta@rubrik.com
+  - shruti.v@rubrik.com
+  - kavya.n@rubrik.com
