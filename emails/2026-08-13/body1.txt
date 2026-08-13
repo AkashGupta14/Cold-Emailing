@@ -1,0 +1,11 @@
+Hi,
+
+I recently came across the Computer Scientist role at Adobe (Java backend, cloud services, 2-4 years) and wanted to express my interest. The role is a strong match for my profile.
+
+I'm a Software Engineer at Gap Inc. (2+ years) building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Docker, AWS/Azure, CI/CD. I actively use AI coding assistants (GitHub Copilot, Claude) daily and have built an AI-powered DevOps chatbot using OpenAI's GPT API that resolves 60-70% of routine queries autonomously. Resume attached.
+
+Would appreciate any routing or visibility for this role.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
