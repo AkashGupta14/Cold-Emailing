@@ -1,0 +1,11 @@
+Hi,
+
+I came across the SDE II Backend role at Sprinklr in Gurugram (Req: 111920-JOB) and wanted to express my interest.
+
+I'm a Software Engineer at Gap Inc. (2+ years) owning 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, MongoDB, Elasticsearch, REST APIs, PostgreSQL, Docker, AWS/Azure, CI/CD. Strong DSA fundamentals (350+ LeetCode). Resume attached.
+
+Would appreciate any routing or visibility for this role.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
