@@ -1,0 +1,11 @@
+Hi Geethanjali,
+
+I've applied for the Software Engineer II, ITC role in Bangalore (R-89916) on the Nike careers portal and wanted to follow up via email as well.
+
+I'm a Software Engineer at Gap Inc. (2+ years) building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, React.js, PostgreSQL, Docker, AWS/Azure, CI/CD. Resume attached.
+
+Would love to be considered for this role.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
