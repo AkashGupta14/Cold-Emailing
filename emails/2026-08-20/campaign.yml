@@ -1,0 +1,89 @@
+# Generated from Cold_Emails_2026-08-20_clean.md
+emails:
+- subject: 'Re: Software Engineer Opportunities – Zomato | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - nandini.jhingran@zomato.com
+  - gaurav.uniyal@zomato.com
+  - sakshi.roy@zomato.com
+  - ananya.jain@zomato.com
+  - sarthak.tibrewal@zomato.com
+  - ravneet.malhotra@zomato.com
+  - pratik.jaiswal@zomato.com
+  - ashish.sharma@zomato.com
+  - anirudh.gupta@zomato.com
+  - sharmistha.paul@zomato.com
+- subject: 'Re: Software Engineer Opportunities – Intuit | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - shruti_sharma@intuit.com
+  - shivani_behera@intuit.com
+  - aju_john@intuit.com
+  - aniket_ranjan@intuit.com
+  - archita_kanoongo@intuit.com
+  - astha_shruti@intuit.com
+  - aravind_ramanujam@intuit.com
+  - subhashree_rout@intuit.com
+  - monika_sharma@intuit.com
+  - shabeena_khatoon@intuit.com
+  - praveen_kumar@intuit.com
+  - sowndarya_vasudevan@intuit.com
+- subject: 'Re: Software Engineer Opportunities – Razorpay | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - vishali.pandita@razorpay.com
+  - sneha.m@razorpay.com
+  - purnima.gupta@razorpay.com
+  - trisha.arya@razorpay.com
+  - dipika.biswas@razorpay.com
+  - vijeta.chhetri@razorpay.com
+  - raj.paul@razorpay.com
+  - ashwin.narayan@razorpay.com
+- subject: 'Re: Software Engineer Opportunities – PhonePe | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - monika.kasinathan@phonepe.com
+  - varshini.v@phonepe.com
+  - joel.joseph@phonepe.com
+  - anita.kumari@phonepe.com
+- subject: 'Re: Software Engineer Opportunities – Meesho | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - jaylaxmi.s@meesho.com
+  - basavaraj.s@meesho.com
+  - soumya.g@meesho.com
+  - deepa.s@meesho.com
+  - shruti.k@meesho.com
+  - anish.r@meesho.com
+  - shubha.j@meesho.com
+- subject: 'Re: Backend Engineer – Ravelin | Akash Gupta'
+  body: body6.txt
+  to: dominic.wong@ravelin.com
+  bcc: []
+- subject: 'Re: Software Engineer Opportunities – Southwest Airlines | Akash Gupta'
+  body: body7.txt
+  bcc:
+  - amarnadh.g@wnco.com
+  - pooja.verma@wnco.com
+  - suresh.akula@wnco.com
+  - usha.s@wnco.com
+  - amarnadh.g@southwestairlines.com
+  - pooja.verma@southwestairlines.com
+  - suresh.akula@southwestairlines.com
+  - usha.s@southwestairlines.com
+- subject: Software Engineer (R264724) – Portfolio Management Group | Akash Gupta
+  body: body8.txt
+  bcc:
+  - dhruv.chadha@blackrock.com
+  - inderpreet.singh@blackrock.com
+  - megha.negi@blackrock.com
+  - vijeth.shetty@blackrock.com
+  - alisha.garg@blackrock.com
+  - ashima.mehan@blackrock.com
+  - sajan.johari@blackrock.com
+  - rachit.chaturvedi@blackrock.com
+  - deepa.yadav@blackrock.com
+  - eric.sequeira@blackrock.com
+  - manjri.bansal@blackrock.com
+  - chetna.mahobia@blackrock.com
+  - anandarup.sengupta@blackrock.com

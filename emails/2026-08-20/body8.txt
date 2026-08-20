@@ -1,0 +1,11 @@
+Hi,
+
+I came across the Software Engineer role in the Portfolio Management Group at BlackRock Mumbai (R264724) and wanted to express my interest.
+
+I'm a Software Engineer at Gap Inc. (2+ years) building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, React.js, PostgreSQL, Docker, AWS/Azure, CI/CD. Resume attached.
+
+Would love to be considered.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
