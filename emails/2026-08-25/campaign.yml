@@ -1,4 +1,4 @@
-# Generated from Cold_Emails_2026-08-25_clean.md
+# Generated from Cold_Emails_2026-08-25_combined_clean.md
 emails:
 - subject: 'Re: Software Engineer Opportunities – Citi | Akash Gupta'
   body: body1.txt
@@ -121,3 +121,169 @@ emails:
   - lalitha.sushrutha@juspay.in
   - abhijeet.shankhdhar@juspay.in
   - parul.shriwatri@juspay.in
+- subject: 'Re: Software Engineer – Java / Ad Delivery Services (Hyderabad) | Akash Gupta'
+  body: body10.txt
+  bcc:
+  - arjung@apple.com
+  - asheesh.sharma@apple.com
+  - manoj.madakari@apple.com
+  - ashwin.dalke@apple.com
+  - divina.bajpai@apple.com
+  - renu.sevanthi@apple.com
+  - chavi.sengar@apple.com
+  - shiny.sharon@apple.com
+  - prerna.gera@apple.com
+  - shruthi.aravelli@apple.com
+  - anuja.pankaj@apple.com
+  - goldy.sachdev@apple.com
+  - prasun.saxena@apple.com
+  - arancha.kosta@apple.com
+  - vanessa.james@apple.com
+  - shubham.rawat@apple.com
+  - yeshika.shah@apple.com
+- subject: 'Re: Software Engineer Opportunities – Razorpay | Akash Gupta'
+  body: body11.txt
+  bcc:
+  - indu.p@razorpay.com
+  - divya.babu@razorpay.com
+  - onyx.lakra@razorpay.com
+  - josephine.shirine@razorpay.com
+  - carol.l@razorpay.com
+  - nidhi.chawda@razorpay.com
+  - purnima.gupta@razorpay.com
+  - srinidhi.v@razorpay.com
+  - keerthi.p@razorpay.com
+  - sneha.m@razorpay.com
+  - trisha.arya@razorpay.com
+  - dipika.biswas@razorpay.com
+  - vijeta.chhetri@razorpay.com
+  - abinya.a@razorpay.com
+  - tausif.raza@razorpay.com
+  - sumit.premi@razorpay.com
+  - vishali.pandita@razorpay.com
+  - shibina.shibu@razorpay.com
+  - abhishek.singh@razorpay.com
+  - shalin.menezes@razorpay.com
+  - muhammad.yaameen@razorpay.com
+  - ashwin.narayan@razorpay.com
+  - raj.paul@razorpay.com
+  - dipika.singh@razorpay.com
+  - rafiqa.arzuman@razorpay.com
+  - anagha.ramchandra@razorpay.com
+- subject: 'Re: Software Engineer Opportunities – Walmart | Akash Gupta'
+  body: body12.txt
+  bcc:
+  - smitha.prasanna@walmart.com
+  - priyanka.kar@walmart.com
+  - shalini.fonseka@walmart.com
+  - preethy.jose@walmart.com
+  - pranesh.george@walmart.com
+  - mohan.prasad@walmart.com
+  - lavanyaa.p@walmart.com
+  - lipy.b@walmart.com
+  - chidananda.y@walmart.com
+  - aswathy.mohanan@walmart.com
+  - anirudh.v@walmart.com
+  - arun.joseph@walmart.com
+  - kartheek.k@walmart.com
+  - ishank.gupta@walmart.com
+  - somreeta.deb@walmart.com
+  - falak.zarin@walmart.com
+  - dinesh.martin@walmart.com
+  - athira.j@walmart.com
+  - suhail.khan@walmart.com
+  - deepika.dhanraj@walmart.com
+  - santhosh.kumar@walmart.com
+  - aruna.veeraraghavan@walmart.com
+  - pavithra.shree@walmart.com
+- subject: 'Re: Software Engineer Opportunities – American Express GBT | Akash Gupta'
+  body: body13.txt
+  bcc:
+  - anjali.singh@amexgbt.com
+  - prachi.singh@amexgbt.com
+  - monomita.sharma@amexgbt.com
+  - lovee.chopra@amexgbt.com
+  - shweta.jolly@amexgbt.com
+  - jagriti.raj@amexgbt.com
+  - vibha.ravichandran@amexgbt.com
+  - priyanka.gaur@amexgbt.com
+  - amreen.dhawan@amexgbt.com
+  - rini.saha@amexgbt.com
+  - indrakshi.k@amexgbt.com
+- subject: 'Re: Software Engineer Opportunities – Razorpay/Curlec | Akash Gupta'
+  body: body14.txt
+  bcc:
+  - farah.salleh@curlec.com
+  - sundharam.subramanian@curlec.com
+  - arun.srinivasan@curlec.com
+- subject: 'Re: Software Engineer Opportunities – Rainier | Akash Gupta'
+  body: body15.txt
+  to: karthik.karre@rainiersoft.com
+  bcc: []
+- subject: 'Re: Software Engineer – Deutsche Telekom Referral | Akash Gupta'
+  body: body16.txt
+  to: gargmohit2912@gmail.com
+  bcc: []
+- subject: Backend Engineer Opportunity – Navi | Akash Gupta
+  body: body17.txt
+  bcc:
+  - aman.rahman@navi.com
+  - aman@navi.com
+  - amanrahman@navi.com
+  - zidaan.siddiquie@navi.com
+  - zidaan@navi.com
+  - zidaansiddiquie@navi.com
+  - jaywanti.nambiar@navi.com
+  - jaywanti@navi.com
+  - jaywantinambiar@navi.com
+  - ayushi.jain@navi.com
+  - ayushi@navi.com
+  - ayushijain@navi.com
+  - anurag.patnaik@navi.com
+  - anurag@navi.com
+  - anuragpatnaik@navi.com
+  - hibha.majeed@navi.com
+  - hibha@navi.com
+  - hibhamajeed@navi.com
+  - tanisha.g@navi.com
+  - tanisha@navi.com
+  - tanishag@navi.com
+  - sree.parimi@navi.com
+  - sree@navi.com
+  - sreeparimi@navi.com
+  - srishti.basu@navi.com
+  - srishti@navi.com
+  - srishtibasu@navi.com
+  - sandra.saravanan@navi.com
+  - sandra@navi.com
+  - sandrasaravanan@navi.com
+  - anisha.mitra@navi.com
+  - anisha@navi.com
+  - anishamitra@navi.com
+  - nikhat.nasim@navi.com
+  - nikhat@navi.com
+  - nikhatnasim@navi.com
+  - shristi.joshi@navi.com
+  - shristi@navi.com
+  - shristijoshi@navi.com
+  - shraboni.paul@navi.com
+  - shraboni@navi.com
+  - shrabonipaul@navi.com
+  - renuka.mahato@navi.com
+  - renuka@navi.com
+  - renukamahato@navi.com
+  - sandeep.k@navi.com
+  - sandeep@navi.com
+  - sandeepk@navi.com
+  - atri.paul@navi.com
+  - atri@navi.com
+  - atripaul@navi.com
+  - kriti.nagar@navi.com
+  - kriti@navi.com
+  - kritinagar@navi.com
+  - sonali.ray@navi.com
+  - sonali@navi.com
+  - sonaliray@navi.com
+  - khushi.srivastava@navi.com
+  - khushi@navi.com
+  - khushisrivastava@navi.com
