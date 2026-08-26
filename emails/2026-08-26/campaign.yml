@@ -1,0 +1,72 @@
+# Generated from Cold_Emails_2026-08-26_clean.md
+emails:
+- subject: 'Re: Software Engineer Opportunities – Rubrik | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - shreya.agarwal@rubrik.com
+  - priyanka.bansal@rubrik.com
+  - neha.sharma@rubrik.com
+  - ankita.singh@rubrik.com
+  - divya.r@rubrik.com
+  - ritu.gupta@rubrik.com
+  - pooja.mehta@rubrik.com
+  - shruti.v@rubrik.com
+  - kavya.n@rubrik.com
+- subject: 'Re: Software Engineer – Cloud Native Protection, Bangalore | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - shreya.agarwal@rubrik.com
+  - priyanka.bansal@rubrik.com
+  - neha.sharma@rubrik.com
+  - ankita.singh@rubrik.com
+  - divya.r@rubrik.com
+  - ritu.gupta@rubrik.com
+  - pooja.mehta@rubrik.com
+  - shruti.v@rubrik.com
+  - kavya.n@rubrik.com
+- subject: 'Re: Software Engineer Opportunities – MongoDB | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - deepak.tyagi@mongodb.com
+  - srishti.handa@mongodb.com
+  - garima.sharma@mongodb.com
+  - tanu.saxena@mongodb.com
+  - pravarthi.n@mongodb.com
+  - srishti.garg@mongodb.com
+  - nikhit.alex@mongodb.com
+  - lakshay.taneja@mongodb.com
+  - suruchi.bhatia@mongodb.com
+  - bhawna.arya@mongodb.com
+  - shweta.tamba@mongodb.com
+  - vinayak.goswami@mongodb.com
+  - vishal.banwari@mongodb.com
+- subject: 'Re: Software Engineer Opportunities – BlackRock | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - dhruv.chadha@blackrock.com
+  - inderpreet.singh@blackrock.com
+  - megha.negi@blackrock.com
+  - vijeth.shetty@blackrock.com
+  - alisha.garg@blackrock.com
+  - ashima.mehan@blackrock.com
+  - sajan.johari@blackrock.com
+  - rachit.chaturvedi@blackrock.com
+  - deepa.yadav@blackrock.com
+  - eric.sequeira@blackrock.com
+  - manjri.bansal@blackrock.com
+  - chetna.mahobia@blackrock.com
+  - anandarup.sengupta@blackrock.com
+- subject: 'Re: Software Engineer Opportunities – JioStar | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - naveen.gundaraju@jiostar.com
+  - saumya.agarwal@jiostar.com
+  - ankita.kokas@jiostar.com
+  - jhanvi.rajesh@jiostar.com
+  - priya.sharma@jiostar.com
+  - sakshi.gupta@jiostar.com
+  - deeksha.singh@jiostar.com
+  - mohammed.imran@jiostar.com
+  - saili.rele@jiostar.com
+  - neelam.dhole@jiostar.com
+  - aafreen.shaikh@jiostar.com
