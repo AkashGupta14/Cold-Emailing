@@ -1,0 +1,11 @@
+Hi,
+
+I came across the Software Engineer – Java Spring Boot with Gen AI role at Wells Fargo Hyderabad (R-570574) and applied via the portal. Reaching out to share my background and request consideration for the role.
+
+I'm a Software Engineer at Gap Inc. with 2+ years of experience building 15+ Spring Boot microservices on Azure Kubernetes Service (AKS) serving 500K+ daily API requests with 99.9% uptime SLA. Core stack: Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Docker, Kubernetes, Azure DevOps, Prometheus/Grafana. I've built event-driven pipelines using Kafka, distributed caching with Redis, and owned CI/CD and observability. I use GitHub Copilot day-to-day for AI-assisted development. Resume attached.
+
+Would appreciate if you could route this to the hiring team or the right recruiter for R-570574.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
