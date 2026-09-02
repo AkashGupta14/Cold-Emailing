@@ -1,4 +1,4 @@
-# Generated from Cold_Emails_2026-09-02_clean.md
+# Generated from Cold_Emails_2026-09-02_full_clean.md
 emails:
 - subject: 'Re: Software Engineer opportunities at Qualcomm | Akash Gupta'
   body: body1.txt
@@ -72,3 +72,10 @@ emails:
   - manjri.bansal@blackrock.com
   - chetna.mahobia@blackrock.com
   - anandarup.sengupta@blackrock.com
+- subject: 'Re: SDE-1 Cards Core (10463381) at Amazon Pay, Bangalore | Akash Gupta'
+  body: body7.txt
+  bcc:
+  - utkai@amazon.com
+  - pujitap@amazon.com
+  - chowsri@amazon.com
+  - rshrey@amazon.com
