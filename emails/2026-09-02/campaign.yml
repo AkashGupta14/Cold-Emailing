@@ -1,0 +1,74 @@
+# Generated from Cold_Emails_2026-09-02_clean.md
+emails:
+- subject: 'Re: Software Engineer opportunities at Qualcomm | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - banu.shankar@qualcomm.com
+  - snigdha.priyadarsini@qualcomm.com
+  - sai.krishna@qualcomm.com
+  - aarathi.kumar@qualcomm.com
+  - vishal.s@qualcomm.com
+  - advaith.vaidyanathan@qualcomm.com
+  - vinod.kuchikulla@qualcomm.com
+  - abuzar.khan@qualcomm.com
+  - aishwarya.illuri@qualcomm.com
+  - satya.priya@qualcomm.com
+  - parthiban.selvaraj@qualcomm.com
+  - nandhini.ramesh@qualcomm.com
+  - supreeth.rao@qualcomm.com
+  - monami.m@qualcomm.com
+  - priya.kumari@qualcomm.com
+- subject: 'Re: Software Engineer opportunities at D.E. Shaw | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - karan.gurung@deshaw.com
+  - aakash.johari@deshaw.com
+  - garima.pandey@deshaw.com
+  - deepali.verma@deshaw.com
+  - thomas.jolly@deshaw.com
+  - soumya.manoria@deshaw.com
+  - pooja.agarwal@deshaw.com
+  - sanjana.chopperla@deshaw.com
+  - srikanth.nawander@deshaw.com
+  - sweta.shaw@deshaw.com
+  - shruti.joshi@deshaw.com
+  - rajarshi.sengupta@deshaw.com
+- subject: 'Re: Software Engineer opportunities at Oracle | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - laxman.karnati@oracle.com
+  - suman.gudibanda@oracle.com
+  - abhilasha.bellapu@oracle.com
+  - pavan.nagireddi@oracle.com
+  - gayathri.pamarthi@oracle.com
+  - swathi.addanki@oracle.com
+  - vibha.jain@oracle.com
+  - deepan.raj@oracle.com
+  - narayan.shetti@oracle.com
+  - nancy.dewan@oracle.com
+- subject: 'Re: Software Engineer opportunities at ServiceNow | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - sunil.akula@servicenow.com
+  - meghana.k@servicenow.com
+- subject: 'Re: Software Engineer opportunities at SAP | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - nishita.das@sap.com
+  - akansha.saxena@sap.com
+- subject: 'Re: Full Stack Developer (R264722) at BlackRock, Mumbai | Akash Gupta'
+  body: body6.txt
+  bcc:
+  - dhruv.chadha@blackrock.com
+  - inderpreet.singh@blackrock.com
+  - megha.negi@blackrock.com
+  - vijeth.shetty@blackrock.com
+  - alisha.garg@blackrock.com
+  - ashima.mehan@blackrock.com
+  - sajan.johari@blackrock.com
+  - rachit.chaturvedi@blackrock.com
+  - deepa.yadav@blackrock.com
+  - eric.sequeira@blackrock.com
+  - manjri.bansal@blackrock.com
+  - chetna.mahobia@blackrock.com
+  - anandarup.sengupta@blackrock.com
