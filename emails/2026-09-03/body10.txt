@@ -1,0 +1,9 @@
+Hi,
+
+Just following up on my earlier email regarding Software Engineer openings at Razorpay. I'm still actively looking and would love to be considered.
+
+Quick recap: 2+ years at Gap Inc. building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests with 99.9% uptime SLA. Java 17, Spring Boot, Kafka, Redis, REST APIs, PostgreSQL, Azure, CI/CD. Resume attached.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

@@ -1,4 +1,4 @@
-# Generated from Cold_Emails_2026-09-02_full_clean.md
+# Generated from Cold_Emails_2026-09-03_combined_clean.md
 emails:
 - subject: 'Re: Software Engineer opportunities at Qualcomm | Akash Gupta'
   body: body1.txt
@@ -79,3 +79,73 @@ emails:
   - pujitap@amazon.com
   - chowsri@amazon.com
   - rshrey@amazon.com
+- subject: 'Re: Software Engineer opportunities at Zomato | Akash Gupta'
+  body: body8.txt
+  bcc:
+  - nandini.jhingran@zomato.com
+  - gaurav.uniyal@zomato.com
+  - sakshi.roy@zomato.com
+  - ananya.jain@zomato.com
+  - sarthak.tibrewal@zomato.com
+  - ravneet.malhotra@zomato.com
+  - pratik.jaiswal@zomato.com
+  - ashish.sharma@zomato.com
+  - anirudh.gupta@zomato.com
+  - sharmistha.paul@zomato.com
+- subject: 'Re: Software Engineer opportunities at Intuit | Akash Gupta'
+  body: body9.txt
+  bcc:
+  - shruti_sharma@intuit.com
+  - shivani_behera@intuit.com
+  - aju_john@intuit.com
+  - aniket_ranjan@intuit.com
+  - archita_kanoongo@intuit.com
+  - astha_shruti@intuit.com
+  - aravind_ramanujam@intuit.com
+  - subhashree_rout@intuit.com
+  - monika_sharma@intuit.com
+  - shabeena_khatoon@intuit.com
+  - praveen_kumar@intuit.com
+  - sowndarya_vasudevan@intuit.com
+  - shalini_mohan@intuit.com
+- subject: 'Re: Software Engineer opportunities at Razorpay | Akash Gupta'
+  body: body10.txt
+  bcc:
+  - vishali.pandita@razorpay.com
+  - sneha.m@razorpay.com
+  - purnima.gupta@razorpay.com
+  - trisha.arya@razorpay.com
+  - dipika.biswas@razorpay.com
+  - vijeta.chhetri@razorpay.com
+  - raj.paul@razorpay.com
+  - ashwin.narayan@razorpay.com
+- subject: 'Re: Software Engineer opportunities at PhonePe | Akash Gupta'
+  body: body11.txt
+  bcc:
+  - monika.kasinathan@phonepe.com
+  - varshini.v@phonepe.com
+  - joel.joseph@phonepe.com
+  - anita.kumari@phonepe.com
+- subject: 'Re: Software Engineer opportunities at Meesho | Akash Gupta'
+  body: body12.txt
+  bcc:
+  - basavaraj.s@meesho.com
+  - soumya.g@meesho.com
+  - deepa.s@meesho.com
+  - shruti.k@meesho.com
+  - anish.r@meesho.com
+- subject: 'Re: Software Engineer opportunities at Southwest Airlines | Akash Gupta'
+  body: body13.txt
+  bcc:
+  - amarnadh.g@wnco.com
+  - pooja.verma@wnco.com
+  - suresh.akula@wnco.com
+  - usha.s@wnco.com
+  - amarnadh.g@southwestairlines.com
+  - pooja.verma@southwestairlines.com
+  - suresh.akula@southwestairlines.com
+  - usha.s@southwestairlines.com
+- subject: 'Re: Backend Engineer role at Ravelin | Akash Gupta'
+  body: body14.txt
+  to: dominic.wong@ravelin.com
+  bcc: []
