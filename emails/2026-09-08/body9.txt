@@ -1,0 +1,10 @@
+Hi Mohit,
+
+Just following up on my earlier note about Deutsche Telekom opportunities. Still actively looking and would really appreciate any update or visibility you might have.
+
+Quick recap: 2+ years at Gap Inc. building 15+ Spring Boot microservices on Kubernetes (AKS) serving 500K+ daily API requests with 99.9% uptime SLA. Stack: Java 17, Spring Boot, Kafka, Redis, PostgreSQL, AWS/Azure, CI/CD.
+
+Resume attached.
+
+Thanks
+Akash

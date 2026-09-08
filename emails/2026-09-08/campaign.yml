@@ -1,4 +1,4 @@
-# Generated from Cold_Emails_2026-09-07_clean.md
+# Generated from Cold_Emails_2026-09-08_combined_clean.md
 emails:
 - subject: 'Re: Software Engineer – Citi | Akash Gupta'
   body: body1.txt
@@ -84,3 +84,64 @@ emails:
   - koyal.bhosle@lowes.com
   - mansi.dangwal@lowes.com
   - riddhi.goyal@lowes.com
+- subject: 'Re: Software Engineer – Walmart | Akash Gupta'
+  body: body6.txt
+  bcc:
+  - smitha.prasanna@walmart.com
+  - priyanka.kar@walmart.com
+  - shalini.fonseka@walmart.com
+  - preethy.jose@walmart.com
+  - pranesh.george@walmart.com
+  - mohan.prasad@walmart.com
+  - lavanyaa.p@walmart.com
+  - lipy.b@walmart.com
+  - chidananda.y@walmart.com
+  - aswathy.mohanan@walmart.com
+  - anirudh.v@walmart.com
+  - arun.joseph@walmart.com
+  - kartheek.k@walmart.com
+  - ishank.gupta@walmart.com
+  - somreeta.deb@walmart.com
+  - falak.zarin@walmart.com
+  - dinesh.martin@walmart.com
+  - athira.j@walmart.com
+  - suhail.khan@walmart.com
+  - deepika.dhanraj@walmart.com
+  - santhosh.kumar@walmart.com
+  - aruna.veeraraghavan@walmart.com
+  - pavithra.shree@walmart.com
+- subject: 'Re: Software Engineer – Amex GBT | Akash Gupta'
+  body: body7.txt
+  bcc:
+  - anjali.singh@amexgbt.com
+  - prachi.singh@amexgbt.com
+  - monomita.sharma@amexgbt.com
+  - lovee.chopra@amexgbt.com
+  - shweta.jolly@amexgbt.com
+  - jagriti.raj@amexgbt.com
+  - vibha.ravichandran@amexgbt.com
+  - priyanka.gaur@amexgbt.com
+  - amreen.dhawan@amexgbt.com
+  - rini.saha@amexgbt.com
+  - indrakshi.k@amexgbt.com
+- subject: 'Re: Software Engineer – Rainier Softech | Akash Gupta'
+  body: body8.txt
+  bcc:
+  - karthik.karre@rainiersoft.com
+- subject: 'Re: Following up — Deutsche Telekom'
+  body: body9.txt
+  to: gargmohit2912@gmail.com
+  bcc: []
+- subject: Software Engineer – Opportunities at Oracle | Akash Gupta
+  body: body10.txt
+  bcc:
+  - laxman.karnati@oracle.com
+  - suman.gudibanda@oracle.com
+  - abhilasha.bellapu@oracle.com
+  - pavan.nagireddi@oracle.com
+  - gayathri.pamarthi@oracle.com
+  - swathi.addanki@oracle.com
+  - vibha.jain@oracle.com
+  - deepan.raj@oracle.com
+  - narayan.shetti@oracle.com
+  - nancy.dewan@oracle.com
