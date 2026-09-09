@@ -1,0 +1,11 @@
+Hi,
+
+I came across the Software Development Engineer II opening on the International/Prism team (Req JR12387) — authentication, subscriptions, payments and content delivery systems — and applied via the portal.
+
+I'm a Software Engineer at Gap Inc. with 2+ years of experience building 15+ Spring Boot microservices on Azure Kubernetes Service (AKS) serving 500K+ daily API requests with 99.9% uptime SLA. Stack: Java 17, Spring Boot, Kafka, Redis, PostgreSQL, AWS/Azure, CI/CD.
+
+Would you be able to share any visibility on JR12387 or route this to the hiring team? Resume attached.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

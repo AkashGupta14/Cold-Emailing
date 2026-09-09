@@ -1,0 +1,46 @@
+# Generated from Cold_Emails_2026-09-09_clean.md
+emails:
+- subject: 'Re: Software Engineer – MongoDB | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - deepak.tyagi@mongodb.com
+  - srishti.handa@mongodb.com
+  - garima.sharma@mongodb.com
+  - tanu.saxena@mongodb.com
+  - pravarthi.n@mongodb.com
+  - srishti.garg@mongodb.com
+  - nikhit.alex@mongodb.com
+  - lakshay.taneja@mongodb.com
+  - suruchi.bhatia@mongodb.com
+  - bhawna.arya@mongodb.com
+  - shweta.tamba@mongodb.com
+  - vinayak.goswami@mongodb.com
+  - vishal.banwari@mongodb.com
+- subject: 'Re: Software Engineer – JioStar | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - naveen.gundaraju@jiostar.com
+  - saumya.agarwal@jiostar.com
+  - ankita.kokas@jiostar.com
+  - jhanvi.rajesh@jiostar.com
+  - priya.sharma@jiostar.com
+  - sakshi.gupta@jiostar.com
+  - deeksha.singh@jiostar.com
+  - mohammed.imran@jiostar.com
+  - saili.rele@jiostar.com
+  - neelam.dhole@jiostar.com
+  - aafreen.shaikh@jiostar.com
+- subject: Software Engineer II – JR12387 (International/Prism) | Akash Gupta
+  body: body3.txt
+  bcc:
+  - naveen.gundaraju@jiostar.com
+  - saumya.agarwal@jiostar.com
+  - ankita.kokas@jiostar.com
+  - jhanvi.rajesh@jiostar.com
+  - priya.sharma@jiostar.com
+  - sakshi.gupta@jiostar.com
+  - deeksha.singh@jiostar.com
+  - mohammed.imran@jiostar.com
+  - saili.rele@jiostar.com
+  - neelam.dhole@jiostar.com
+  - aafreen.shaikh@jiostar.com
