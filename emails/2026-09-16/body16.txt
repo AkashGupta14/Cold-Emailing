@@ -1,10 +1,10 @@
 Hi,
 
-I came across the Software Engineer II opening on the Payments Technology team (Commercial & Investment Bank, Req 210781982) and wanted to flag it alongside my earlier application for Req 210780433 — I'm a strong fit for both.
+I came across the Software Engineer II opening on the Payments Technology team (Commercial & Investment Bank, Req 210781982) and wanted to share my background.
 
 I'm a Software Engineer at Gap Inc. with 2+ years of experience building 15+ Spring Boot microservices on Azure Kubernetes Service (AKS) serving 500K+ daily API requests with 99.9% uptime SLA. Stack: Java 17, Spring Boot, Kafka, Redis, PostgreSQL, AWS/Azure, CI/CD, and hands-on use of AI-assisted development tools (GitHub Copilot, Claude) in my daily workflow.
 
-Would you be able to share any visibility on either req, or point me to the right team? Resume attached.
+Would you be able to share any visibility on Req 210781982 or point me to the right team? Resume attached.
 
 Thanks
 Akash Gupta
