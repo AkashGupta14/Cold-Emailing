@@ -1,0 +1,236 @@
+# Generated from Cold_Emails_2026-09-16_combined_clean.md
+emails:
+- subject: 'Re: Software Engineer – Meta | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - namrata.kapoor@meta.com
+  - monish.m@meta.com
+  - keerthi.cottur@meta.com
+  - sirisha.palusa@meta.com
+  - shreya.shruti@meta.com
+- subject: 'Re: Software Engineer – Uber | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - kanka.halder@uber.com
+  - varsha.tejaswi@uber.com
+  - veena.kommireddy@uber.com
+  - thejaswi.bollineni@uber.com
+  - mahesh.n@uber.com
+  - nishanth.seshadri@uber.com
+- subject: 'Re: Software Engineer – Amazon | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - pujitap@amazon.com
+  - chowsri@amazon.com
+  - utkai@amazon.com
+  - vedicas@amazon.com
+  - kirtidah@amazon.com
+  - shvtt@amazon.com
+  - dapur@amazon.com
+  - antheiya@amazon.com
+- subject: 'Re: Software Engineer – Expedia | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - sachhabra@expediagroup.com
+- subject: 'Re: Software Engineer – Adobe | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - john.thomas@adobe.com
+  - vivek.tiwari@adobe.com
+  - kalyani.tripathi@adobe.com
+  - charu.dobhal@adobe.com
+  - kanika.saini@adobe.com
+  - shikha.devrani@adobe.com
+  - mahima.srivastava@adobe.com
+  - sakshi.joshi@adobe.com
+  - naina.chaudhary@adobe.com
+- subject: 'Re: Software Engineer – Salesforce | Akash Gupta'
+  body: body6.txt
+  bcc:
+  - rashmi.pati@salesforce.com
+  - maanvitha.adla@salesforce.com
+  - megha.goyal@salesforce.com
+  - saiteja.miryala@salesforce.com
+  - veda.kamat@salesforce.com
+  - megha.subramanian@salesforce.com
+- subject: 'Re: Software Engineer – Airbnb | Akash Gupta'
+  body: body7.txt
+  bcc:
+  - amulya.bhatt@airbnb.com
+  - nupur.goyal@airbnb.com
+  - ayushi.kumar@airbnb.com
+  - swati.chhabra@airbnb.com
+  - abhishek.sethi@airbnb.com
+- subject: 'Re: Software Engineer II (Java & AI) – JPMorgan Chase | Akash Gupta'
+  body: body8.txt
+  bcc:
+  - srikv@jpmchase.com
+  - manoj.pm@jpmchase.com
+  - kishore.kr@jpmchase.com
+  - sandeep.nair@jpmchase.com
+  - ruhi.khanum@jpmchase.com
+  - pallavi.chaturvedi@jpmchase.com
+  - tushar.mehta@jpmchase.com
+  - krishnaveni.km@jpmchase.com
+  - gokulnath.rajendran@jpmchase.com
+  - bhavana.murthy@jpmchase.com
+  - arnab.bose@jpmchase.com
+  - mani.subhash@jpmchase.com
+  - satyanarayana.dowluri@jpmchase.com
+  - phani.kiran@jpmchase.com
+  - chandrabhushan.d@jpmchase.com
+  - manohar.j@jpmchase.com
+  - pooja.khandelwal@jpmchase.com
+  - anantha.krishnan@jpmchase.com
+  - neha.tulsiani@jpmchase.com
+  - nikhlaish.bhat@jpmchase.com
+  - prakash.nanda@jpmchase.com
+  - dharmesh.chauhan@jpmchase.com
+  - karan.lulla@jpmchase.com
+  - manthan.rao@jpmchase.com
+  - amar.rathore@jpmchase.com
+  - rashmitha.shetty@jpmchase.com
+  - harshit.bhatt@jpmchase.com
+  - aman.agarwal@jpmchase.com
+  - wesley.pereira@jpmchase.com
+  - renu.dewangan@jpmchase.com
+  - trupti.pawar@jpmchase.com
+  - isha.chitalia@jpmchase.com
+  - jyothi.gm@jpmchase.com
+  - gauri.gupta@jpmchase.com
+  - ninad.bhor@jpmchase.com
+  - akshata.t@jpmchase.com
+  - punya.balakrishnan@jpmchase.com
+  - anvesh.pogula@jpmchase.com
+  - garveet.patwari@jpmchase.com
+- subject: 'Re: Software Engineer – Qualcomm | Akash Gupta'
+  body: body9.txt
+  bcc:
+  - banu.shankar@qualcomm.com
+  - snigdha.priyadarsini@qualcomm.com
+  - sai.krishna@qualcomm.com
+  - aarathi.kumar@qualcomm.com
+  - vishal.s@qualcomm.com
+  - advaith.vaidyanathan@qualcomm.com
+  - vinod.kuchikulla@qualcomm.com
+  - abuzar.khan@qualcomm.com
+  - aishwarya.illuri@qualcomm.com
+  - satya.priya@qualcomm.com
+  - parthiban.selvaraj@qualcomm.com
+  - nandhini.ramesh@qualcomm.com
+  - supreeth.rao@qualcomm.com
+  - monami.m@qualcomm.com
+  - priya.kumari@qualcomm.com
+- subject: 'Re: Software Engineer – D.E. Shaw | Akash Gupta'
+  body: body10.txt
+  bcc:
+  - karan.gurung@deshaw.com
+  - aakash.johari@deshaw.com
+  - garima.pandey@deshaw.com
+  - deepali.verma@deshaw.com
+  - thomas.jolly@deshaw.com
+  - soumya.manoria@deshaw.com
+  - pooja.agarwal@deshaw.com
+  - sanjana.chopperla@deshaw.com
+  - srikanth.nawander@deshaw.com
+  - sweta.shaw@deshaw.com
+  - shruti.joshi@deshaw.com
+  - rajarshi.sengupta@deshaw.com
+- subject: 'Re: Software Engineer – Oracle | Akash Gupta'
+  body: body11.txt
+  bcc:
+  - laxman.karnati@oracle.com
+  - suman.gudibanda@oracle.com
+  - abhilasha.bellapu@oracle.com
+  - pavan.nagireddi@oracle.com
+  - gayathri.pamarthi@oracle.com
+  - swathi.addanki@oracle.com
+  - vibha.jain@oracle.com
+  - deepan.raj@oracle.com
+  - narayan.shetti@oracle.com
+  - nancy.dewan@oracle.com
+- subject: 'Re: Software Engineer – ServiceNow | Akash Gupta'
+  body: body12.txt
+  bcc:
+  - sunil.akula@servicenow.com
+  - keerthi.m@servicenow.com
+  - meghana.k@servicenow.com
+  - harish.kumar@servicenow.com
+  - deepak.r@servicenow.com
+  - srinivas.m@servicenow.com
+  - kavitha.s@servicenow.com
+- subject: 'Re: Software Engineer – SAP | Akash Gupta'
+  body: body13.txt
+  bcc:
+  - nishita.das@sap.com
+  - sahithi.r@sap.com
+  - raghav.mittal@sap.com
+  - akansha.saxena@sap.com
+  - ankit.pandey@sap.com
+  - shreya.verma@sap.com
+  - meera.nair@sap.com
+- subject: 'Re: Software Engineer, BlackRock Solutions – BlackRock | Akash Gupta'
+  body: body14.txt
+  bcc:
+  - dhruv.chadha@blackrock.com
+  - inderpreet.singh@blackrock.com
+  - megha.negi@blackrock.com
+  - vijeth.shetty@blackrock.com
+  - alisha.garg@blackrock.com
+  - ashima.mehan@blackrock.com
+  - sajan.johari@blackrock.com
+  - rachit.chaturvedi@blackrock.com
+  - deepa.yadav@blackrock.com
+  - eric.sequeira@blackrock.com
+  - manjri.bansal@blackrock.com
+  - chetna.mahobia@blackrock.com
+  - anandarup.sengupta@blackrock.com
+- subject: 'Re: Software Engineer – Amazon Pay | Akash Gupta'
+  body: body15.txt
+  bcc:
+  - utkai@amazon.com
+  - pujitap@amazon.com
+  - chowsri@amazon.com
+  - rshrey@amazon.com
+- subject: Software Engineer II – Req 210781982 (Payments Technology) | Akash Gupta
+  body: body16.txt
+  bcc:
+  - srikv@jpmchase.com
+  - manoj.pm@jpmchase.com
+  - kishore.kr@jpmchase.com
+  - sandeep.nair@jpmchase.com
+  - ruhi.khanum@jpmchase.com
+  - pallavi.chaturvedi@jpmchase.com
+  - tushar.mehta@jpmchase.com
+  - krishnaveni.km@jpmchase.com
+  - gokulnath.rajendran@jpmchase.com
+  - bhavana.murthy@jpmchase.com
+  - arnab.bose@jpmchase.com
+  - mani.subhash@jpmchase.com
+  - satyanarayana.dowluri@jpmchase.com
+  - phani.kiran@jpmchase.com
+  - chandrabhushan.d@jpmchase.com
+  - manohar.j@jpmchase.com
+  - pooja.khandelwal@jpmchase.com
+  - anantha.krishnan@jpmchase.com
+  - neha.tulsiani@jpmchase.com
+  - nikhlaish.bhat@jpmchase.com
+  - prakash.nanda@jpmchase.com
+  - dharmesh.chauhan@jpmchase.com
+  - karan.lulla@jpmchase.com
+  - manthan.rao@jpmchase.com
+  - amar.rathore@jpmchase.com
+  - rashmitha.shetty@jpmchase.com
+  - harshit.bhatt@jpmchase.com
+  - aman.agarwal@jpmchase.com
+  - wesley.pereira@jpmchase.com
+  - renu.dewangan@jpmchase.com
+  - trupti.pawar@jpmchase.com
+  - isha.chitalia@jpmchase.com
+  - jyothi.gm@jpmchase.com
+  - gauri.gupta@jpmchase.com
+  - ninad.bhor@jpmchase.com
+  - akshata.t@jpmchase.com
+  - punya.balakrishnan@jpmchase.com
+  - anvesh.pogula@jpmchase.com
+  - garveet.patwari@jpmchase.com
