@@ -1,0 +1,31 @@
+# Generated from Cold_Emails_2026-09-17_clean.md
+emails:
+- subject: 'Re: Software Engineer – Zomato | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - nandini.jhingran@zomato.com
+  - gaurav.uniyal@zomato.com
+  - sakshi.roy@zomato.com
+  - ananya.jain@zomato.com
+  - sarthak.tibrewal@zomato.com
+  - ravneet.malhotra@zomato.com
+  - pratik.jaiswal@zomato.com
+  - ashish.sharma@zomato.com
+  - anirudh.gupta@zomato.com
+  - sharmistha.paul@zomato.com
+- subject: 'Re: Software Engineer – Intuit | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - shruti_sharma@intuit.com
+  - shivani_behera@intuit.com
+  - aju_john@intuit.com
+  - aniket_ranjan@intuit.com
+  - archita_kanoongo@intuit.com
+  - astha_shruti@intuit.com
+  - aravind_ramanujam@intuit.com
+  - subhashree_rout@intuit.com
+  - monika_sharma@intuit.com
+  - shabeena_khatoon@intuit.com
+  - praveen_kumar@intuit.com
+  - sowndarya_vasudevan@intuit.com
+  - shalini_mohan@intuit.com
