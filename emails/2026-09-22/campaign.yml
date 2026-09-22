@@ -1,0 +1,50 @@
+# Generated from Cold_Emails_2026-09-22_clean.md
+emails:
+- subject: 'Re: Software Engineer – Walmart | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - smitha.prasanna@walmart.com
+  - priyanka.kar@walmart.com
+  - shalini.fonseka@walmart.com
+  - preethy.jose@walmart.com
+  - pranesh.george@walmart.com
+  - mohan.prasad@walmart.com
+  - lavanyaa.p@walmart.com
+  - lipy.b@walmart.com
+  - chidananda.y@walmart.com
+  - aswathy.mohanan@walmart.com
+  - anirudh.v@walmart.com
+  - arun.joseph@walmart.com
+  - kartheek.k@walmart.com
+  - ishank.gupta@walmart.com
+  - somreeta.deb@walmart.com
+  - falak.zarin@walmart.com
+  - dinesh.martin@walmart.com
+  - athira.j@walmart.com
+  - suhail.khan@walmart.com
+  - deepika.dhanraj@walmart.com
+  - santhosh.kumar@walmart.com
+  - aruna.veeraraghavan@walmart.com
+  - pavithra.shree@walmart.com
+- subject: 'Re: Software Engineer – Amex GBT | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - anjali.singh@amexgbt.com
+  - prachi.singh@amexgbt.com
+  - monomita.sharma@amexgbt.com
+  - lovee.chopra@amexgbt.com
+  - shweta.jolly@amexgbt.com
+  - jagriti.raj@amexgbt.com
+  - vibha.ravichandran@amexgbt.com
+  - priyanka.gaur@amexgbt.com
+  - amreen.dhawan@amexgbt.com
+  - rini.saha@amexgbt.com
+  - indrakshi.k@amexgbt.com
+- subject: 'Re: Software Engineer – Rainier Softech | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - karthik.karre@rainiersoft.com
+- subject: 'Re: Following up — Deutsche Telekom'
+  body: body4.txt
+  to: gargmohit2912@gmail.com
+  bcc: []
