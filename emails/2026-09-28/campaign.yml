@@ -1,0 +1,196 @@
+# Generated from Cold_Emails_2026-09-28_only.md
+emails:
+- subject: 'Re: Software Engineer – MongoDB | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - deepak.tyagi@mongodb.com
+  - srishti.handa@mongodb.com
+  - garima.sharma@mongodb.com
+  - tanu.saxena@mongodb.com
+  - pravarthi.n@mongodb.com
+  - srishti.garg@mongodb.com
+  - nikhit.alex@mongodb.com
+  - lakshay.taneja@mongodb.com
+  - suruchi.bhatia@mongodb.com
+  - bhawna.arya@mongodb.com
+  - shweta.tamba@mongodb.com
+  - vinayak.goswami@mongodb.com
+  - vishal.banwari@mongodb.com
+- subject: 'Re: Software Engineer – JioStar | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - naveen.gundaraju@jiostar.com
+  - saumya.agarwal@jiostar.com
+  - ankita.kokas@jiostar.com
+  - jhanvi.rajesh@jiostar.com
+  - priya.sharma@jiostar.com
+  - sakshi.gupta@jiostar.com
+  - deeksha.singh@jiostar.com
+  - mohammed.imran@jiostar.com
+  - saili.rele@jiostar.com
+  - neelam.dhole@jiostar.com
+  - aafreen.shaikh@jiostar.com
+- subject: 'Re: Software Engineer – Goldman Sachs | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - lokesh.shekar@gs.com
+  - anu.bansal@gs.com
+  - shalini.banerjee@gs.com
+  - karthik.hoskote@gs.com
+  - somashekar.ch@gs.com
+  - angel.caroline@gs.com
+  - deepika.mukherjee@gs.com
+  - jyothi.hullur@gs.com
+  - shalini.mishra@gs.com
+  - keerthana.saravanan@gs.com
+  - robert.rahul@gs.com
+  - roushni.dutta@gs.com
+  - powlomi.mukherjee@gs.com
+  - cynthia.christy@gs.com
+  - divya.kokala@gs.com
+  - dharshana.mk@gs.com
+  - sreerag.nair@gs.com
+  - shabbir.khan@gs.com
+  - shreya.shetty@gs.com
+  - pooja.sampath@gs.com
+  - sandeep.subramanyam@gs.com
+  - harini.akella@gs.com
+  - prachi.talwar@gs.com
+  - reena.dsouza@gs.com
+  - ravichandra.macharla@gs.com
+  - aneesha.bhaskar@gs.com
+  - harshavardhan.bukka@gs.com
+  - priyanka.prabhu@gs.com
+  - sanchita.gupta@gs.com
+  - ayushi.dubey@gs.com
+- subject: 'Re: Software Engineer – BCG | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - swati.saxena@bcg.com
+  - ameen.mehkri@bcg.com
+  - nandika.thakur@bcg.com
+  - nandini@bcg.com
+  - neha.dua@bcg.com
+  - rajat.ahuja@bcg.com
+  - shubhga.mishra@bcg.com
+  - mansi.jain@bcg.com
+  - sushma.vedula@bcg.com
+  - shashwathi.p@bcg.com
+  - rahul.bhardwaj@bcg.com
+  - shubham.thakur@bcg.com
+  - medha.wadhwa@bcg.com
+  - munish.kumar@bcg.com
+  - radhika.s@bcg.com
+  - ishita.jha@bcg.com
+  - shweta.dubey@bcg.com
+  - kushagr.sharma@bcg.com
+  - sumiti.chitkara@bcg.com
+  - gourika.sally@bcg.com
+  - komal.kakkar@bcg.com
+  - harsh.saini@bcg.com
+  - shalini.banerjee@bcg.com
+  - shruti.shatakshi@bcg.com
+- subject: 'Re: Software Engineer – Arcesium | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - sunil.parambath@arcesium.com
+  - rohan.rozario@arcesium.com
+  - prashant.hiremath@arcesium.com
+  - kiran.ksheersagar@arcesium.com
+  - sohini.dasgupta@arcesium.com
+  - somya.neekhra@arcesium.com
+  - anwesha.daspatnaik@arcesium.com
+  - syeda.fatima@arcesium.com
+  - sanya.d@arcesium.com
+  - manak.sharma@arcesium.com
+  - mohit.dujari@arcesium.com
+  - akansha.m@arcesium.com
+- subject: 'Re: Software Engineer – BlackBuck | Akash Gupta'
+  body: body6.txt
+  bcc:
+  - nagaraj.bg@blackbuck.com
+- subject: SDE 2 – Backend Engineer (B2C/Consumer Tech) - Akash Gupta
+  body: body7.txt
+  to: sonal@patronagehr.com
+  bcc: []
+- subject: Java Fullstack Developer - Akash Gupta
+  body: body8.txt
+  to: aditi.jain@intellicus.com
+  bcc: []
+- subject: 'Re: Software Engineer – Toast | Akash Gupta'
+  body: body9.txt
+  bcc:
+  - sanjay.e@toasttab.com
+  - prasanna.rajendran@toasttab.com
+  - shubha.prahalad@toasttab.com
+  - gagandeep.sangar@toasttab.com
+  - bhagyalakshmi.r@toasttab.com
+  - pranesh.p@toasttab.com
+  - ruksana.p@toasttab.com
+  - harshini.kannan@toasttab.com
+  - vikas.sawant@toasttab.com
+  - utpal.kirodian@toasttab.com
+  - priyalakshmi.r@toasttab.com
+  - lavanya.adyanthaya@toasttab.com
+- subject: 'Re: Software Engineer – Fidelity | Akash Gupta'
+  body: body10.txt
+  bcc:
+  - kruthika.shetty@fmr.com
+  - praveen.kumar@fmr.com
+  - kalpana.singh@fmr.com
+  - sneha.sheth@fmr.com
+  - lakshmi.v@fmr.com
+  - rithin.thimmaiah@fmr.com
+  - vikas.gautam@fmr.com
+  - vijay.anand@fmr.com
+- subject: 'Re: Software Engineer – Amex | Akash Gupta'
+  body: body11.txt
+  bcc:
+  - shristi.agarwal@aexp.com
+  - mohammad.salman1@aexp.com
+  - sakshi.saini@aexp.com
+  - deepak.rajput1@aexp.com
+  - akanksha.bajpai@aexp.com
+  - anupama.ram@aexp.com
+  - ajitha.agness@aexp.com
+  - sonakshi.gulati@aexp.com
+  - ashish.s1@aexp.com
+  - phalguni.pahuja@aexp.com
+  - pratish.rastogi@aexp.com
+  - anshika.juneja@aexp.com
+  - anshika.juneja1@aexp.com
+  - medha.chandra1@aexp.com
+  - saurabh.sharma@aexp.com
+  - saurabh.sharma1@aexp.com
+- subject: 'Re: Software Engineer – Meta | Akash Gupta'
+  body: body12.txt
+  bcc:
+  - namrata.kapoor@meta.com
+  - monish.m@meta.com
+  - keerthi.cottur@meta.com
+  - sirisha.palusa@meta.com
+  - shreya.shruti@meta.com
+- subject: 'Re: Software Engineer – Uber | Akash Gupta'
+  body: body13.txt
+  bcc:
+  - kanka.halder@uber.com
+  - varsha.tejaswi@uber.com
+  - veena.kommireddy@uber.com
+  - thejaswi.bollineni@uber.com
+  - mahesh.n@uber.com
+  - nishanth.seshadri@uber.com
+- subject: 'Re: Software Engineer – Amazon | Akash Gupta'
+  body: body14.txt
+  bcc:
+  - pujitap@amazon.com
+  - chowsri@amazon.com
+  - utkai@amazon.com
+  - vedicas@amazon.com
+  - kirtidah@amazon.com
+  - shvtt@amazon.com
+  - dapur@amazon.com
+  - antheiya@amazon.com
+- subject: 'Re: Software Engineer – Expedia | Akash Gupta'
+  body: body15.txt
+  bcc:
+  - sachhabra@expediagroup.com

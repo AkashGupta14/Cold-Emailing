@@ -1,0 +1,13 @@
+Hi Aditi,
+
+Saw your post about the Java Fullstack Developer opening (Indore/Noida) and wanted to share my background.
+
+I'm a Software Engineer at Gap Inc. with 2+ years of experience building 15+ Spring Boot microservices on Azure Kubernetes Service (AKS) serving 500K+ daily API requests with 99.9% uptime SLA. Stack: Java 17, Spring Boot, REST APIs, Kafka, Redis, PostgreSQL, AWS/Azure. On the frontend side, my hands-on experience is with React rather than Angular, though I'm comfortable picking up Angular given my JavaScript/TypeScript fundamentals.
+
+I should also flag upfront: my current notice period is 60 days, not immediate, in case that's a hard requirement on your end.
+
+Would love to be considered if there's flexibility on either point. Resume attached.
+
+Thanks
+Akash Gupta
++91-8949562774
