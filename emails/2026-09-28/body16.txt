@@ -1,0 +1,11 @@
+Hi,
+
+Saw the Software Developer – Backend opening (Gurugram, ₹20-35 LPA) and applied via the form. Wanted to share my background directly as well.
+
+I'm a Software Engineer at Gap Inc. with 2+ years of experience building 15+ Spring Boot microservices on Azure Kubernetes Service (AKS) serving 500K+ daily API requests with 99.9% uptime SLA. Stack: Java 17, Spring Boot, Kafka, Redis, PostgreSQL, AWS/Azure, CI/CD, and hands-on use of AI-assisted development tools (GitHub Copilot, Claude) in my daily workflow — including building an internal AI-powered DevOps chatbot using LLMs and RAG.
+
+Would appreciate any visibility on this role or a pointer to the right team. Resume attached.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774

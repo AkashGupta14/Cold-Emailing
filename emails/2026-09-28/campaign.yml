@@ -1,4 +1,4 @@
-# Generated from Cold_Emails_2026-09-28_only.md
+# Generated from Cold_Emails_2026-09-28_final.md
 emails:
 - subject: 'Re: Software Engineer – MongoDB | Akash Gupta'
   body: body1.txt
@@ -194,3 +194,16 @@ emails:
   body: body15.txt
   bcc:
   - sachhabra@expediagroup.com
+- subject: 'Re: Software Developer – Backend Opening | Akash Gupta'
+  body: body16.txt
+  bcc:
+  - nandini.jhingran@zomato.com
+  - gaurav.uniyal@zomato.com
+  - sakshi.roy@zomato.com
+  - ananya.jain@zomato.com
+  - sarthak.tibrewal@zomato.com
+  - ravneet.malhotra@zomato.com
+  - pratik.jaiswal@zomato.com
+  - ashish.sharma@zomato.com
+  - anirudh.gupta@zomato.com
+  - sharmistha.paul@zomato.com
