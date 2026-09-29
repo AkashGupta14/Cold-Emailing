@@ -1,0 +1,90 @@
+# Generated from Cold_Emails_2026-09-29_clean.md
+emails:
+- subject: 'Re: Software Engineer – Adobe | Akash Gupta'
+  body: body1.txt
+  bcc:
+  - john.thomas@adobe.com
+  - vivek.tiwari@adobe.com
+  - kalyani.tripathi@adobe.com
+  - charu.dobhal@adobe.com
+  - kanika.saini@adobe.com
+  - shikha.devrani@adobe.com
+  - mahima.srivastava@adobe.com
+  - sakshi.joshi@adobe.com
+  - naina.chaudhary@adobe.com
+- subject: 'Re: Software Engineer – Salesforce | Akash Gupta'
+  body: body2.txt
+  bcc:
+  - rashmi.pati@salesforce.com
+  - maanvitha.adla@salesforce.com
+  - megha.goyal@salesforce.com
+  - saiteja.miryala@salesforce.com
+  - veda.kamat@salesforce.com
+  - megha.subramanian@salesforce.com
+- subject: 'Re: Software Engineer – Airbnb | Akash Gupta'
+  body: body3.txt
+  bcc:
+  - amulya.bhatt@airbnb.com
+  - nupur.goyal@airbnb.com
+  - ayushi.kumar@airbnb.com
+  - swati.chhabra@airbnb.com
+  - abhishek.sethi@airbnb.com
+- subject: 'Re: Software Engineer II (Java & AI) – JPMorgan Chase | Akash Gupta'
+  body: body4.txt
+  bcc:
+  - srikv@jpmchase.com
+  - manoj.pm@jpmchase.com
+  - kishore.kr@jpmchase.com
+  - sandeep.nair@jpmchase.com
+  - ruhi.khanum@jpmchase.com
+  - pallavi.chaturvedi@jpmchase.com
+  - tushar.mehta@jpmchase.com
+  - krishnaveni.km@jpmchase.com
+  - gokulnath.rajendran@jpmchase.com
+  - bhavana.murthy@jpmchase.com
+  - arnab.bose@jpmchase.com
+  - mani.subhash@jpmchase.com
+  - satyanarayana.dowluri@jpmchase.com
+  - phani.kiran@jpmchase.com
+  - chandrabhushan.d@jpmchase.com
+  - manohar.j@jpmchase.com
+  - pooja.khandelwal@jpmchase.com
+  - anantha.krishnan@jpmchase.com
+  - neha.tulsiani@jpmchase.com
+  - nikhlaish.bhat@jpmchase.com
+  - prakash.nanda@jpmchase.com
+  - dharmesh.chauhan@jpmchase.com
+  - karan.lulla@jpmchase.com
+  - manthan.rao@jpmchase.com
+  - amar.rathore@jpmchase.com
+  - rashmitha.shetty@jpmchase.com
+  - harshit.bhatt@jpmchase.com
+  - aman.agarwal@jpmchase.com
+  - wesley.pereira@jpmchase.com
+  - renu.dewangan@jpmchase.com
+  - trupti.pawar@jpmchase.com
+  - isha.chitalia@jpmchase.com
+  - jyothi.gm@jpmchase.com
+  - gauri.gupta@jpmchase.com
+  - ninad.bhor@jpmchase.com
+  - akshata.t@jpmchase.com
+  - punya.balakrishnan@jpmchase.com
+  - anvesh.pogula@jpmchase.com
+  - garveet.patwari@jpmchase.com
+- subject: 'Re: Software Engineer I – Indeed | Akash Gupta'
+  body: body5.txt
+  bcc:
+  - sdarga@indeed.com
+  - ptilokani@indeed.com
+  - snayak@indeed.com
+- subject: Software Development Engineer – Job IDs 10561005 & 10561002 (Time & Pay Innovation) | Akash Gupta
+  body: body6.txt
+  bcc:
+  - pujitap@amazon.com
+  - chowsri@amazon.com
+  - utkai@amazon.com
+  - vedicas@amazon.com
+  - kirtidah@amazon.com
+  - shvtt@amazon.com
+  - dapur@amazon.com
+  - antheiya@amazon.com

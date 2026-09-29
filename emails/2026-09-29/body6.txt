@@ -1,0 +1,11 @@
+Hi,
+
+I came across two Software Development Engineer openings on the Time & Pay Innovation team (PXT/TAA, Job IDs 10561005 and 10561002, Hyderabad) and wanted to share my background directly — I'm a strong fit for either.
+
+I'm a Software Engineer at Gap Inc. with 2+ years of experience building 15+ Spring Boot microservices on Azure Kubernetes Service (AKS) serving 500K+ daily API requests with 99.9% uptime SLA. Stack: Java 17, Spring Boot, Kafka, Redis, PostgreSQL, AWS/Azure, CI/CD. I've designed for resilience with patterns like circuit breakers and graceful degradation in production, and I actively use AI-assisted development tools (GitHub Copilot, Claude) in my daily workflow.
+
+Would you be able to share any visibility on either req or route this to the hiring team? Resume attached.
+
+Thanks
+Akash Gupta
+akashgupta14902@gmail.com | +91-8949562774
